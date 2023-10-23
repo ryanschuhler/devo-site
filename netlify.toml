@@ -1,14 +1,13 @@
-# example netlify.toml
 [build]
   command = "astro build"
   functions = "netlify/functions"
   publish = "dist"
 
-[[plugins]] 
-  package = "netlify-plugin-cypress"
+[functions]
+  directory = "netlify/functions/"
 
-  [plugins.inputs.postBuild]
-    enable = true
-  
-  [plugin.inputs]
-    enable = false
+[functions."send-emails"]
+schedule = "@weekly"
+
+[context.production]
+  environment = { YOUR_RSS_FEED_URL = "/rss" }
