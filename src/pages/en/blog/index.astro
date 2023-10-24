@@ -1,0 +1,23 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('en'));
+---
+
+<Layout>
+	<section>
+		<ul>
+			{
+				posts.map((post) => (
+					<li>
+						<a href={`/en/blog/${post.slug}/`}>
+							<img width={720} height={360} src={post.data.heroImage} alt="" />
+							<h4 class="title">{post.data.title}</h4>
+						</a>
+					</li>
+				))
+			}
+		</ul>
+	</section>
+</Layout>
