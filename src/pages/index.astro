@@ -1,9 +1,20 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import BaseHead from '../components/BaseHead.astro';
+
+const { title, description } = Astro.props;
 ---
-<Layout>
-  <h2>Welcome to "Nurturing the Soul of the Bible Study Leader"</h2>
-  <p>Choose your language</p>
-  <a href="/en">English</a>
-  <a href="/es">Español</a>
-</Layout>
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+	</head>
+
+	<body>
+		<main>
+      <h2>Welcome to "Nurturing the Soul of the Bible Study Leader"</h2>
+      <p>Choose your language</p>
+      <a href="/en">English</a>
+      <a href="/es">Español</a>
+		</main>
+	</body>
+</html>

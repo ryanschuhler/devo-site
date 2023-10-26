@@ -1,5 +1,3 @@
-// YOUR_BASE_DIRECTORY/netlify/functions/test-scheduled-function.mts
-
 import type { Config } from "@netlify/functions"
 
 export default async (req: Request) => {
@@ -10,6 +8,6 @@ export default async (req: Request) => {
 }
 
 export const config: Config = {
-    schedule: "@hourly"
+    schedule: "@daily"
 }
 

@@ -1,0 +1,21 @@
+---
+const today = new Date();
+---
+
+<footer class="site-footer">
+	<section class="site-details">
+		<h3>About "Nurturing the Soul of the Bible Study Leader</h3>
+		<p>Sign up to receive weekly emails with links to the latest devotionals written for Bible study leaders. Take time to prayerfully reflect on God's Word and allow it to shape your ministry of leading Bible studies or teaching Bible classes.</p>
+	</section>
+	<section class="site-form">
+		<h3>Join the Mailing List</h3>
+		<form name="signup" method="POST" data-netlify="true">
+			<label for="email">Email</label>
+			<input type="email" name="email" />
+			<button type="submit">Sign Up</button>
+		</form>
+	</section>
+	<section class="site-info">
+		&copy; {today.getFullYear()} biblestudyleader.com. All rights reserved.
+	</section>
+</footer>

@@ -557,6 +557,15 @@ declare module 'astro:content' {
   data: any
 } & { render(): Render[".md"] };
 };
+"es": {
+"00_INTRODUCTION.md": {
+	id: "00_INTRODUCTION.md";
+  slug: "00_introduction";
+  body: string;
+  collection: "es";
+  data: any
+} & { render(): Render[".md"] };
+};
 
 	};
 
