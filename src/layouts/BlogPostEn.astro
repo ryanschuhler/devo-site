@@ -2,16 +2,13 @@
 import type { CollectionEntry } from 'astro:content';
 import Layout from './LayoutEn.astro';
 
-const { title, description, lang, pubDate, updatedDate, heroImage } = Astro.props;
+const { title } = Astro.props;
 
-type Props = CollectionEntry<"en">['data'];
+type Props = CollectionEntry<"devotionals">['data'];
 ---
 
 <Layout>
 	<article>
-		<div class="hero-image">
-			{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
-		</div>
 		<div class="prose">
 			<div class="title">
 				<h1>{title}</h1>

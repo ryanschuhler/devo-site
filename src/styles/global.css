@@ -3,8 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;500;700&display=swap');
 
 :root {
-  --main-family: 'Lato', sans-serif;
-  --color-bg: linear-gradient(180deg, #FFFFFF 0%, #AEC6DC 100%);
+	--main-family: 'Lato', sans-serif;
+	--footer-bg-color: #000000;
+	--footer-font-color: #656565;
+	--footer-header-color: #FFFFFF;
 }
 
 html {
@@ -70,7 +72,7 @@ table {
 }
 
 /*--------------------------------------------------------------
-# Forms
+#  Forms
 --------------------------------------------------------------*/
 button,
 input[type="button"],
@@ -130,7 +132,7 @@ textarea {
 }
 
 /*--------------------------------------------------------------
-# Alignments
+#  Alignments
 --------------------------------------------------------------*/
 .alignleft {
 	display: inline;
@@ -152,7 +154,7 @@ textarea {
 }
 
 /*--------------------------------------------------------------
-# Widgets
+#  Widgets
 --------------------------------------------------------------*/
 .widget {
 	margin: 0;
@@ -223,4 +225,23 @@ textarea {
 .widget .post-img {
 	float: left;
 	margin-right: 10px;
+}
+
+footer {
+	background-color: var(--footer-bg-color);
+	color: var(--footer-font-color);
+	display: flex;
+}
+
+footer h2, footer h3, footer label {
+	color: var(--footer-header-color);
+}
+
+footer .site-info {
+	border-top: 1px solid var(--footer-header-color);
+	color: var(--footer-header-color);
+}
+
+footer .site-details, footer .site-form {
+
 }

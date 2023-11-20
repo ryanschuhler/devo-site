@@ -184,386 +184,759 @@ declare module 'astro:content' {
 	>;
 
 	type ContentEntryMap = {
-		"en": {
+		"devocionales": {
+"00_AlimentandoelalmadelLEBIntroduccion.md": {
+	id: "00_AlimentandoelalmadelLEBIntroduccion.md";
+  slug: "00_alimentandoelalmadellebintroduccion";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"01_DEVOCIONAL.md": {
+	id: "01_DEVOCIONAL.md";
+  slug: "01_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"02_DEVOCIONAL.md": {
+	id: "02_DEVOCIONAL.md";
+  slug: "02_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"03_DEVOCIONAL.md": {
+	id: "03_DEVOCIONAL.md";
+  slug: "03_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"04_DEVOCIONAL.md": {
+	id: "04_DEVOCIONAL.md";
+  slug: "04_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"05_DEVOCIONAL.md": {
+	id: "05_DEVOCIONAL.md";
+  slug: "05_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"06_DEVOCIONAL.md": {
+	id: "06_DEVOCIONAL.md";
+  slug: "06_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"07_DEVOCIONAL.md": {
+	id: "07_DEVOCIONAL.md";
+  slug: "07_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"08_DEVOCIONAL.md": {
+	id: "08_DEVOCIONAL.md";
+  slug: "08_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"09_DEVOCIONAL.md": {
+	id: "09_DEVOCIONAL.md";
+  slug: "09_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"10_DEVOCIONAL.md": {
+	id: "10_DEVOCIONAL.md";
+  slug: "10_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"11_DEVOCIONAL.md": {
+	id: "11_DEVOCIONAL.md";
+  slug: "11_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"12_DEVOCIONAL.md": {
+	id: "12_DEVOCIONAL.md";
+  slug: "12_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"13_DEVOCIONAL.md": {
+	id: "13_DEVOCIONAL.md";
+  slug: "13_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"14_DEVOCIONAL.md": {
+	id: "14_DEVOCIONAL.md";
+  slug: "14_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"15_DEVOCIONAL.md": {
+	id: "15_DEVOCIONAL.md";
+  slug: "15_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"16_DEVOCIONAL.md": {
+	id: "16_DEVOCIONAL.md";
+  slug: "16_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"17_DEVOCIONAL.md": {
+	id: "17_DEVOCIONAL.md";
+  slug: "17_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"18_DEVOCIONAL.md": {
+	id: "18_DEVOCIONAL.md";
+  slug: "18_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"19_DEVOCIONAL.md": {
+	id: "19_DEVOCIONAL.md";
+  slug: "19_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"20_DEVOCIONAL.md": {
+	id: "20_DEVOCIONAL.md";
+  slug: "20_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"21_DEVOCIONAL.md": {
+	id: "21_DEVOCIONAL.md";
+  slug: "21_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"22_DEVOCIONAL.md": {
+	id: "22_DEVOCIONAL.md";
+  slug: "22_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"23_DEVOCIONAL.md": {
+	id: "23_DEVOCIONAL.md";
+  slug: "23_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"24_DEVOCIONAL.md": {
+	id: "24_DEVOCIONAL.md";
+  slug: "24_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"25_DEVOCIONAL.md": {
+	id: "25_DEVOCIONAL.md";
+  slug: "25_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"26_DEVOCIONAL.md": {
+	id: "26_DEVOCIONAL.md";
+  slug: "26_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"27_DEVOCIONAL.md": {
+	id: "27_DEVOCIONAL.md";
+  slug: "27_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"28_DEVOCIONAL.md": {
+	id: "28_DEVOCIONAL.md";
+  slug: "28_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"29_DEVOCIONAL.md": {
+	id: "29_DEVOCIONAL.md";
+  slug: "29_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"30_DEVOCIONAL.md": {
+	id: "30_DEVOCIONAL.md";
+  slug: "30_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"31_DEVOCIONAL.md": {
+	id: "31_DEVOCIONAL.md";
+  slug: "31_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"32_DEVOCIONAL.md": {
+	id: "32_DEVOCIONAL.md";
+  slug: "32_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"33_DEVOCIONAL.md": {
+	id: "33_DEVOCIONAL.md";
+  slug: "33_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"34_DEVOCIONAL.md": {
+	id: "34_DEVOCIONAL.md";
+  slug: "34_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"35_DEVOCIONAL.md": {
+	id: "35_DEVOCIONAL.md";
+  slug: "35_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"36_DEVOCIONAL.md": {
+	id: "36_DEVOCIONAL.md";
+  slug: "36_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"37_DEVOCIONAL.md": {
+	id: "37_DEVOCIONAL.md";
+  slug: "37_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"38_DEVOCIONAL.md": {
+	id: "38_DEVOCIONAL.md";
+  slug: "38_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"39_DEVOCIONAL.md": {
+	id: "39_DEVOCIONAL.md";
+  slug: "39_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"40_DEVOCIONAL.md": {
+	id: "40_DEVOCIONAL.md";
+  slug: "40_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"41_DEVOCIONAL.md": {
+	id: "41_DEVOCIONAL.md";
+  slug: "41_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"42_DEVOCIONAL.md": {
+	id: "42_DEVOCIONAL.md";
+  slug: "42_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"43_DEVOCIONAL.md": {
+	id: "43_DEVOCIONAL.md";
+  slug: "43_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"44_DEVOCIONAL.md": {
+	id: "44_DEVOCIONAL.md";
+  slug: "44_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"45_DEVOCIONAL.md": {
+	id: "45_DEVOCIONAL.md";
+  slug: "45_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"46_DEVOCIONAL.md": {
+	id: "46_DEVOCIONAL.md";
+  slug: "46_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"47_DEVOCIONAL.md": {
+	id: "47_DEVOCIONAL.md";
+  slug: "47_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"48_DEVOCIONAL.md": {
+	id: "48_DEVOCIONAL.md";
+  slug: "48_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"49_DEVOCIONAL.md": {
+	id: "49_DEVOCIONAL.md";
+  slug: "49_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"50_DEVOCIONAL.md": {
+	id: "50_DEVOCIONAL.md";
+  slug: "50_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"51_DEVOCIONAL.md": {
+	id: "51_DEVOCIONAL.md";
+  slug: "51_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"52_DEVOCIONAL.md": {
+	id: "52_DEVOCIONAL.md";
+  slug: "52_devocional";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+};
+"devotionals": {
 "00_INTRODUCTION.md": {
 	id: "00_INTRODUCTION.md";
   slug: "00_introduction";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "01_DEVOTIONAL_John_21.md": {
 	id: "01_DEVOTIONAL_John_21.md";
   slug: "01_devotional_john_21";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "02_DEVOTIONAL_Ezra_7.md": {
 	id: "02_DEVOTIONAL_Ezra_7.md";
   slug: "02_devotional_ezra_7";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "03_DEVOTIONAL_Mark_6.md": {
 	id: "03_DEVOTIONAL_Mark_6.md";
   slug: "03_devotional_mark_6";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "04_DEVOTIONAL_Acts_2.md": {
 	id: "04_DEVOTIONAL_Acts_2.md";
   slug: "04_devotional_acts_2";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "05_DEVOTIONAL_Deuteronomy_6.md": {
 	id: "05_DEVOTIONAL_Deuteronomy_6.md";
   slug: "05_devotional_deuteronomy_6";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "06_DEVOTIONAL_1_Corinthians_2a.md": {
 	id: "06_DEVOTIONAL_1_Corinthians_2a.md";
   slug: "06_devotional_1_corinthians_2a";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "07_DEVOTIONAL_Ephesians_3.md": {
 	id: "07_DEVOTIONAL_Ephesians_3.md";
   slug: "07_devotional_ephesians_3";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "08_DEVOTIONAL_1_Timothy_1.md": {
 	id: "08_DEVOTIONAL_1_Timothy_1.md";
   slug: "08_devotional_1_timothy_1";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "09_DEVOTIONAL_Psalm_25.md": {
 	id: "09_DEVOTIONAL_Psalm_25.md";
   slug: "09_devotional_psalm_25";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "10_DEVOTIONAL_Philippians_1.md": {
 	id: "10_DEVOTIONAL_Philippians_1.md";
   slug: "10_devotional_philippians_1";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "11_DEVOTIONAL_John_15.md": {
 	id: "11_DEVOTIONAL_John_15.md";
   slug: "11_devotional_john_15";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "12_DEVOTIONAL_Matthew_7.md": {
 	id: "12_DEVOTIONAL_Matthew_7.md";
   slug: "12_devotional_matthew_7";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "13_DEVOTIONAL_Hebrews_4.md": {
 	id: "13_DEVOTIONAL_Hebrews_4.md";
   slug: "13_devotional_hebrews_4";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "14_DEVOTIONAL_Joshua_1.md": {
 	id: "14_DEVOTIONAL_Joshua_1.md";
   slug: "14_devotional_joshua_1";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "15_DEVOTIONAL_Luke_8.md": {
 	id: "15_DEVOTIONAL_Luke_8.md";
   slug: "15_devotional_luke_8";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "16_DEVOTIONAL_Romans_12.md": {
 	id: "16_DEVOTIONAL_Romans_12.md";
   slug: "16_devotional_romans_12";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "17_DEVOTIONAL_Ephesians_4a.md": {
 	id: "17_DEVOTIONAL_Ephesians_4a.md";
   slug: "17_devotional_ephesians_4a";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "18_DEVOTIONAL_Ephesians_4b.md": {
 	id: "18_DEVOTIONAL_Ephesians_4b.md";
   slug: "18_devotional_ephesians_4b";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "19_DEVOTIONAL_James_1.md": {
 	id: "19_DEVOTIONAL_James_1.md";
   slug: "19_devotional_james_1";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "20_DEVOTIONAL_Psalm_71.md": {
 	id: "20_DEVOTIONAL_Psalm_71.md";
   slug: "20_devotional_psalm_71";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "21_DEVOTIONAL_Matthew_10.md": {
 	id: "21_DEVOTIONAL_Matthew_10.md";
   slug: "21_devotional_matthew_10";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "22_DEVOTIONAL_1_Timothy_4.md": {
 	id: "22_DEVOTIONAL_1_Timothy_4.md";
   slug: "22_devotional_1_timothy_4";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "23_DEVOTIONAL_Colossians_1.md": {
 	id: "23_DEVOTIONAL_Colossians_1.md";
   slug: "23_devotional_colossians_1";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "24_DEVOTIONAL_Psalm_119.md": {
 	id: "24_DEVOTIONAL_Psalm_119.md";
   slug: "24_devotional_psalm_119";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "25_DEVOTIONAL_1_Corinthians_8.md": {
 	id: "25_DEVOTIONAL_1_Corinthians_8.md";
   slug: "25_devotional_1_corinthians_8";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "26_DEVOTIONAL_2_Timothy_1.md": {
 	id: "26_DEVOTIONAL_2_Timothy_1.md";
   slug: "26_devotional_2_timothy_1";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "27_DEVOTIONAL_Matthew_28.md": {
 	id: "27_DEVOTIONAL_Matthew_28.md";
   slug: "27_devotional_matthew_28";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "28_DEVOTIONAL_Nehemiah_8.md": {
 	id: "28_DEVOTIONAL_Nehemiah_8.md";
   slug: "28_devotional_nehemiah_8";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "29_DEVOTIONAL_Romans_15.md": {
 	id: "29_DEVOTIONAL_Romans_15.md";
   slug: "29_devotional_romans_15";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "30_DEVOTIONAL_1_Corinthians_11+.md": {
 	id: "30_DEVOTIONAL_1_Corinthians_11+.md";
   slug: "30_devotional_1_corinthians_11";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "31_DEVOTIONAL_Colossians_3.md": {
 	id: "31_DEVOTIONAL_Colossians_3.md";
   slug: "31_devotional_colossians_3";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "32_DEVOTIONAL_2_Timothy_4.md": {
 	id: "32_DEVOTIONAL_2_Timothy_4.md";
   slug: "32_devotional_2_timothy_4";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "33_DEVOTIONAL_Psalm_40.md": {
 	id: "33_DEVOTIONAL_Psalm_40.md";
   slug: "33_devotional_psalm_40";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "34_DEVOTIONAL_John_13.md": {
 	id: "34_DEVOTIONAL_John_13.md";
   slug: "34_devotional_john_13";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "35_DEVOTIONAL_Acts_17.md": {
 	id: "35_DEVOTIONAL_Acts_17.md";
   slug: "35_devotional_acts_17";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "36_DEVOTIONAL_Titus_2.md": {
 	id: "36_DEVOTIONAL_Titus_2.md";
   slug: "36_devotional_titus_2";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "37_DEVOTIONAL_2_Timothy_2a.md": {
 	id: "37_DEVOTIONAL_2_Timothy_2a.md";
   slug: "37_devotional_2_timothy_2a";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "38_DEVOTIONAL_Psalm_145.md": {
 	id: "38_DEVOTIONAL_Psalm_145.md";
   slug: "38_devotional_psalm_145";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "39_DEVOTIONAL_1_Corinthians_9.md": {
 	id: "39_DEVOTIONAL_1_Corinthians_9.md";
   slug: "39_devotional_1_corinthians_9";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "40_DEVOTIONAL_Proverbs_4.md": {
 	id: "40_DEVOTIONAL_Proverbs_4.md";
   slug: "40_devotional_proverbs_4";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "41_DEVOTIONAL_Romans_2.md": {
 	id: "41_DEVOTIONAL_Romans_2.md";
   slug: "41_devotional_romans_2";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "42_DEVOTIONAL_1_Corinthians_3.md": {
 	id: "42_DEVOTIONAL_1_Corinthians_3.md";
   slug: "42_devotional_1_corinthians_3";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "43_DEVOTIONAL_2_Timothy_2b.md": {
 	id: "43_DEVOTIONAL_2_Timothy_2b.md";
   slug: "43_devotional_2_timothy_2b";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "44_DEVOTIONAL_1_Corinthians_13.md": {
 	id: "44_DEVOTIONAL_1_Corinthians_13.md";
   slug: "44_devotional_1_corinthians_13";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "45_DEVOTIONAL_Philippians_4.md": {
 	id: "45_DEVOTIONAL_Philippians_4.md";
   slug: "45_devotional_philippians_4";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "46_DEVOTIONAL_Matthew_23.md": {
 	id: "46_DEVOTIONAL_Matthew_23.md";
   slug: "46_devotional_matthew_23";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "47_DEVOTIONAL_1_Corinthians_2b.md": {
 	id: "47_DEVOTIONAL_1_Corinthians_2b.md";
   slug: "47_devotional_1_corinthians_2b";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "48_DEVOTIONAL_John_16.md": {
 	id: "48_DEVOTIONAL_John_16.md";
   slug: "48_devotional_john_16";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "49_DEVOTIONAL_2_Timothy_3.md": {
 	id: "49_DEVOTIONAL_2_Timothy_3.md";
   slug: "49_devotional_2_timothy_3";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "50_DEVOTIONAL_1_Thessalonians_2.md": {
 	id: "50_DEVOTIONAL_1_Thessalonians_2.md";
   slug: "50_devotional_1_thessalonians_2";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "51_DEVOTIONAL_Psalm_78.md": {
 	id: "51_DEVOTIONAL_Psalm_78.md";
   slug: "51_devotional_psalm_78";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 "52_DEVOTIONAL_Jeremiah_31.md": {
 	id: "52_DEVOTIONAL_Jeremiah_31.md";
   slug: "52_devotional_jeremiah_31";
   body: string;
-  collection: "en";
-  data: any
+  collection: "devotionals";
+  data: InferEntrySchema<"devotionals">
 } & { render(): Render[".md"] };
 };
-"es": {
+"tips": {
 "00_INTRODUCTION.md": {
 	id: "00_INTRODUCTION.md";
   slug: "00_introduction";
   body: string;
-  collection: "es";
-  data: any
+  collection: "tips";
+  data: InferEntrySchema<"tips">
 } & { render(): Render[".md"] };
 };
 

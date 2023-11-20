@@ -1,0 +1,22 @@
+---
+import Layout from '../../layouts/LayoutEn.astro';
+import { getCollection } from 'astro:content';
+
+const tips = await getCollection('tips');
+---
+
+<Layout>
+	<section>
+		<ul>
+			{
+				tips.map((tip) => (
+					<li>
+						<a href={`/tips/${tip.slug}/`}>
+							<h4 class="title">{tip.data.title}</h4>
+						</a>
+					</li>
+				))
+			}
+		</ul>
+	</section>
+</Layout>

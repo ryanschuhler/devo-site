@@ -7,7 +7,7 @@
   directory = "netlify/functions/"
 
 [functions."send-emails"]
-schedule = "@weekly"
+  schedule = "@weekly"
 
 [context.production]
   environment = { YOUR_RSS_FEED_URL = "/rss" }

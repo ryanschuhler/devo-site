@@ -1,0 +1,22 @@
+---
+import Layout from '../../layouts/LayoutEn.astro';
+import { getCollection } from 'astro:content';
+
+const devotionals = await getCollection('devotionals');
+---
+
+<Layout>
+	<section>
+		<ul>
+			{
+				devotionals.map((devotional) => (
+					<li>
+						<a href={`/devotionals/${devotional.slug}/`}>
+							<h4 class="title">{devotional.data.title}</h4>
+						</a>
+					</li>
+				))
+			}
+		</ul>
+	</section>
+</Layout>
