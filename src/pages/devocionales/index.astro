@@ -6,13 +6,14 @@ const devocionales = await getCollection('devocionales');
 ---
 
 <Layout>
-	<section>
+	<section class="posts">
 		<ul>
 			{
 				devocionales.map((devocional) => (
 					<li>
-						<a href={`/devocionales/${devocional.slug}/`}>
+						<a class="section" href={`/devocionales/${devocional.slug}/`}>
 							<h4 class="title">{devocional.data.title}</h4>
+							{devocional.data.week && <span>Semana {devocional.data.week}</span>}
 						</a>
 					</li>
 				))

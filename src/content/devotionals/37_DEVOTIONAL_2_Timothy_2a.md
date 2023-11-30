@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 37"
+week: 37
 ---
-# DEVOTIONAL 37
 
 **Teaching Those Who Can Teach Others**
 

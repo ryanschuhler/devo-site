@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 35"
+week: 35
 ---
-# DEVOCIONAL 35
 
 **Examinar las Escrituras**
 

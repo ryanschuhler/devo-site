@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 36"
+week: 36
 ---
-# DEVOTIONAL 36
 
 **Integrity in Your Teaching**
 

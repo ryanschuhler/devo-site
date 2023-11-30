@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 21"
+week: 21
 ---
-# DEVOCIONAL 21
 
 **Llegar a Ser Como Nuestro Señor y Maestro**
 

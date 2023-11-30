@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 46"
+week: 46
 ---
-# DEVOCIONAL 46
 
 **Nuestro Único Maestro**
 

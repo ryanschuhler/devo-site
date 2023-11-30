@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 25"
+week: 25
 ---
-# DEVOTIONAL 25
 
 **Knowledge, Pride, and Care for Others**
 

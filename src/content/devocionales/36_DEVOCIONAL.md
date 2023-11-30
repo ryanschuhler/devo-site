@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 36"
+week: 36
 ---
-# DEVOCIONAL 36
 
 **Muestra Integridad en Tu Enseñanza**
 

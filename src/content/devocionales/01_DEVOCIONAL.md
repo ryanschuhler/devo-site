@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 1"
+week: 1
 ---
-# DEVOCIONAL 1
 
 **¿Me Amas? Apacienta Mis Corderos**
 

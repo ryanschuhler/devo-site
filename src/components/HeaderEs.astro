@@ -1,20 +1,22 @@
 ---
 import { SITE_TITLE } from '../const';
+
+const currentPath = Astro.url.pathname;
 ---
 
 <header class="site-header">
 	<h2 class="site-title"><a href="/" rel="home">{SITE_TITLE}</a></h2>
-	<nav class="site-navigation">
-		<ul>
-			<li><a href="/inicio">Inicio</a></li>
-			<li><a href="/devocionales">Devocionales</a></li>
-			<li><a href="/acerca-de">Acerca De</a></li>
-		</ul>
-	</nav>
 	<nav class="language-navigation">
 		<ul>
 			<li><a href="/home">English</a></li>
 			<li><a href="/inicio">Español</a></li>
+		</ul>
+	</nav>
+	<nav class="site-navigation">
+		<ul>
+			<li class={currentPath.includes("/inicio") ? "active" : ""}><a href="/inicio">Inicio</a></li>
+			<li class={currentPath.includes("/devocionales") ? "active" : ""}><a href="/devocionales">Devocionales</a></li>
+			<li class={currentPath.includes("/acerca-de") ? "active" : ""}><a href="/acerca-de">Acerca De</a></li>
 		</ul>
 	</nav>
 </header>

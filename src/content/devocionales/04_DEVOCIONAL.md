@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 4"
+week: 4
 ---
-# DEVOCIONAL 4
 
 **Aprender y Crecer Día a Día**
 

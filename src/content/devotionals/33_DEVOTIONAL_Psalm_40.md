@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 33"
+week: 33
 ---
-# DEVOTIONAL 33
 
 **Your Law is Within My Heart**
 

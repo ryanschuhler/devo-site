@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 46"
+week: 46
 ---
-# DEVOTIONAL 46
 
 **Our One Teacher**
 

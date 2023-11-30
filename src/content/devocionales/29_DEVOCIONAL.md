@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 29"
+week: 29
 ---
-# DEVOCIONAL 29
 
 **Paciencia, Consolación y Esperanza**
 

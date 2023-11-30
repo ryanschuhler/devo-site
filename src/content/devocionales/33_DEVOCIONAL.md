@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 33"
+week: 33
 ---
-# DEVOCIONAL 33
 
 **Tu Ley Está en Medio de Mi Corazón  
 **

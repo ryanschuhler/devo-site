@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 9"
+week: 9
 ---
-# DEVOCIONAL 9
 
 **Dios, Nuestro Maestro**
 

@@ -3,7 +3,8 @@ layout: ../layouts/LayoutEn.astro
 title: "About"
 ---
 
-# About "Nurturing the Soul of the Bible Study Leader"
+![Bible and Pen](/bible_and_pen.jpg)
+
 > Make me know your ways, O LORD;
 > teach me your paths.
 > Lead me in your truth and teach me,
@@ -13,7 +14,7 @@ title: "About"
 
 God wants to be my teacher, but sometimes it is easy for me to miss this. I’ve been leading small group Bible studies for almost 50 years, and most of the time I’ve tried to allow God to teach me first as I prepare to teach others, but sometimes this has been a struggle. I can become so focused on what the people I am teaching need to know and do that I don’t spend enough time asking what God desires to do in my own life. I become content with second-hand truth – truth for “you,” instead of truth for “us.” When I recognize this tendency in myself I repent, turn back to Psalm 25, and join the psalmist in asking God to remember his mercy and steadfast love, teach me His ways, and lead me in a life of obedience to His truth. 
 
-  This devotional collection is for everyone who leads Bible study groups, whatever settings you are in, to encourage you to allow God to be your teacher. I invite you to read and reflect on these Scriptures and let God nurture your soul, encourage your heart, and strengthen you for the ministry He has called you to. Sometimes setting aside time for our own devotional lives is an easy thing to do, and other times it is a challenge because we are busy people – so busy “feeding” others that we can neglect our own souls in the process. Often, we prepare spiritual banquets for others to enjoy, and grab only a few crumbs for ourselves on the run. This is not God’s desire for us. I invite you to join me in reading, reflecting, and praying to our Father, that He might feed us so that we may grow in our own walk with Him and in turn feed others well. 
+This devotional collection is for everyone who leads Bible study groups, whatever settings you are in, to encourage you to allow God to be your teacher. I invite you to read and reflect on these Scriptures and let God nurture your soul, encourage your heart, and strengthen you for the ministry He has called you to. Sometimes setting aside time for our own devotional lives is an easy thing to do, and other times it is a challenge because we are busy people – so busy “feeding” others that we can neglect our own souls in the process. Often, we prepare spiritual banquets for others to enjoy, and grab only a few crumbs for ourselves on the run. This is not God’s desire for us. I invite you to join me in reading, reflecting, and praying to our Father, that He might feed us so that we may grow in our own walk with Him and in turn feed others well. 
 
 The Scriptures are filled with passages that talk about teaching and learning. God has much to tell us about how we should approach our teaching ministries, how to learn first and teach second, and how to partner with Him in teaching others. I’m convinced that if we want our Bible study ministries to be fruitful for God’s purposes, we need to take time to carefully reflect on what Scripture tells us about this important ministry, and about ourselves, as teachers.
 

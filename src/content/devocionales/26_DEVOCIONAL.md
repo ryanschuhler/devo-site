@@ -1,4 +1,7 @@
-> **DEVOCIONAL 26**
+---
+title: "DEVOCIONAL 26"
+week: 26
+---
 
 **Retén la Forma de las Sanas Palabras**
 

@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 15"
+week: 15
 ---
-# DEVOTIONAL 15
 
 **Of Seeds and Soils**
 

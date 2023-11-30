@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 7"
+week: 7
 ---
-# DEVOTIONAL 7
 
 **To Know the Love of God**
 

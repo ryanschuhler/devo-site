@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 13"
+week: 13
 ---
-# DEVOTIONAL 13
 
 **The Power of the Living Word of God**
 

@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 19"
+week: 19
 ---
-# DEVOTIONAL 19
 
 **Becoming Doers of the Word**
 

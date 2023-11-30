@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 52"
+week: 52
 ---
-# DEVOTIONAL 52
 
 **Written on Our Hearts**
 

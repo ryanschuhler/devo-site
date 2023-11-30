@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 24"
+week: 24
 ---
-# DEVOTIONAL 24
 
 **Storing up Your Word in My Heart**
 

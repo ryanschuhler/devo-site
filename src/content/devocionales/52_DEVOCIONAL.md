@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 52"
+week: 52
 ---
-# DEVOCIONAL 52
 
 **La Ley de Dios Escrita en Nuestros Corazones**
 

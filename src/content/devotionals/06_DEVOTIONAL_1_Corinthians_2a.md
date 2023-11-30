@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 6"
+week: 6
 ---
-# DEVOTIONAL 6
 
 **The Gospel: A Simple, Powerful Message**
 

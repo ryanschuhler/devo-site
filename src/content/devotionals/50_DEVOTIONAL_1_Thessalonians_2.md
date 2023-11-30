@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 50"
+week: 50
 ---
-# DEVOTIONAL 50
 
 **Teaching Like a Mother and a Father**
 

@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 5"
+week: 5
 ---
-# DEVOTIONAL 5
 
 **These Words Shall be on Your Heart**
 

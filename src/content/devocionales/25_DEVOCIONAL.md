@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 25"
+week: 25
 ---
-# DEVOCIONAL 25
 
 **Conocimiento, Orgullo y Preocupación por los Demás**
 

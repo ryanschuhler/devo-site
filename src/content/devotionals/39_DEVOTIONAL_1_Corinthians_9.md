@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 39"
+week: 39
 ---
-# DEVOTIONAL 39
 
 **Becoming All Things to All People to Win Some**
 

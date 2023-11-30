@@ -1,5 +1,6 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
+import { SITE_TITLE } from '../const';
 
 const { title, description } = Astro.props;
 ---
@@ -9,12 +10,19 @@ const { title, description } = Astro.props;
 		<BaseHead title={title} description={description} />
 	</head>
 
-	<body>
-		<main>
-			<h2>Welcome to "Nurturing the Soul of the Bible Study Leader"</h2>
-			<p>Choose your language</p>
-			<a href="/home">English</a>
-			<a href="/inicio">Español</a>
+	<body class="starter-page">
+		<main class="section">
+			<header class="site-header">
+				<h2 class="site-title">Welcome to {SITE_TITLE}</h2>
+				<h3>Choose your language</h3>
+				<nav class="language-navigation">
+					<ul>
+						<li><a href="/home">English</a></li>
+						<li><a href="/inicio">Español</a></li>
+					</ul>
+				</nav>
+				<img src="/bible_and_coffee.jpg" />
+			</header>
 		</main>
 	</body>
 </html>

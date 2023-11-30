@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 3"
+week: 3
 ---
-# DEVOTIONAL 3
 
 **Like Sheep Without a Shepherd**
 

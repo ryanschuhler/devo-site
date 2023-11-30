@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 22"
+week: 22
 ---
-# DEVOTIONAL 22
 
 **Watching Both Ourselves and Our Teaching**
 

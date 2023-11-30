@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 4"
+week: 4
 ---
-# DEVOTIONAL 4
 
 **Learning and Growing Day by Day**
 

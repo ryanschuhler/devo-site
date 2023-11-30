@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 29"
+week: 29
 ---
-# DEVOTIONAL 29
 
 **Endurance, Encouragement, and Hope**
 

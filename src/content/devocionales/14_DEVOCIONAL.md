@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 14"
+week: 14
 ---
-# DEVOCIONAL 14
 
 **Esfuérzate y sé Valiente**
 

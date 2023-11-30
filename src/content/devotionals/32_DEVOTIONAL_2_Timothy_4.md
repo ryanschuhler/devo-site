@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 32"
+week: 32
 ---
-# DEVOTIONAL 32
 
 **Fulfilling Your Ministry**
 

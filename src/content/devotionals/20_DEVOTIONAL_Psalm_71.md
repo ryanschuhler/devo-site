@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 20"
+week: 20
 ---
-# DEVOTIONAL 20
 
 **Proclaiming Your Might to Another Generation**
 

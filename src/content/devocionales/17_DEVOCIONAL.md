@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 17"
+week: 17
 ---
-# DEVOCIONAL 17
 
 **Perfeccionar a los Santos, Edificar el Cuerpo**
 

@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 49"
+week: 49
 ---
-# DEVOCIONAL 49
 
 **El Poder de la Escritura**
 

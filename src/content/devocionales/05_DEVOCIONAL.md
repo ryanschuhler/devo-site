@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 5"
+week: 5
 ---
-# DEVOCIONAL 5
 
 **Estas Palabras Estarán Sobre tu Corazón**
 

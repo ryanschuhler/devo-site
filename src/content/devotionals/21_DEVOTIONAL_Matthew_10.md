@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 21"
+week: 21
 ---
-# DEVOTIONAL 21
 
 **Becoming Like Our Master and Teacher**
 

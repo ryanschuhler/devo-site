@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 3"
+week: 3
 ---
-# DEVOCIONAL 3
 
 **Como Ovejas Sin Pastor  
 **

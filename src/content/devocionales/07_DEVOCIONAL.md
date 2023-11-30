@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 7"
+week: 7
 ---
-# DEVOCIONAL 7
 
 **Conocer el Amor de Dios**
 

@@ -1,4 +1,7 @@
-> **DEVOCIONAL 42**
+---
+title: "DEVOCIONAL 42"
+week: 42
+---
 
 **Colaboradores de Dios  
 **

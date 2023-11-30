@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 45"
+week: 45
 ---
-# DEVOCIONAL 45
 
 **Centrarse en lo Bueno y Practicar lo Aprendido**
 

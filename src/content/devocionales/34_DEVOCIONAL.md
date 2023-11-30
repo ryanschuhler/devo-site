@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 34"
+week: 34
 ---
-# DEVOCIONAL 34
 
 **La Marca del Discipulado**
 

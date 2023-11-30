@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 45"
+week: 45
 ---
-# DEVOTIONAL 45
 
 **Focusing on the Good, Practicing What We Learn**
 

@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 1"
+week: 1
 ---
-# DEVOTIONAL 1
 
 **Do You Love Me? Feed My Lambs**
 

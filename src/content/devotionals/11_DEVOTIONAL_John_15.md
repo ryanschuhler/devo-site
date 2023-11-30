@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 11"
+week: 11
 ---
-# DEVOTIONAL 11
 
 **Abiding and Bearing Much Fruit**
 

@@ -3,7 +3,8 @@ layout: ../layouts/LayoutEs.astro
 title: "Acerca de"
 ---
 
-# About "Nurturing the Soul of the Bible Study Leader" ES
+![Bible and Pen](/bible_and_pen.jpg)
+
 > Make me know your ways, O LORD;
 > teach me your paths.
 > Lead me in your truth and teach me,

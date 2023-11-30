@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 39"
+week: 39
 ---
-# DEVOCIONAL 39
 
 **Me he Hecho de Todo, Para que de Todos Modos Salve a Algunos**
 

@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 27"
+week: 27
 ---
-# DEVOCIONAL 27
 
 **Id y Haced Discípulos  
 **

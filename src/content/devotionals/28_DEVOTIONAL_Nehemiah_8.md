@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 28"
+week: 28
 ---
-# DEVOTIONAL 28
 
 **The Joy of the Lord is Your Strength**
 

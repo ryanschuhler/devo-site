@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 47"
+week: 47
 ---
-# DEVOCIONAL 47
 
 **Tener la Mente de Cristo**
 

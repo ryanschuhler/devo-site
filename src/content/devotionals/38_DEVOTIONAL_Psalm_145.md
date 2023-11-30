@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 38"
+week: 38
 ---
-# DEVOTIONAL 38
 
 **One Generation Shall Commend Your Works to Another**
 

@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 12"
+week: 12
 ---
-# DEVOCIONAL 12
 
 **Construir Sobre la Roca en Vez de Sobre la Arena**
 

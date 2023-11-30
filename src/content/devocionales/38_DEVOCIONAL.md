@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 38"
+week: 38
 ---
-# DEVOCIONAL 38
 
 > **Generación a Generación Celebrará Tus Obras  
 > **

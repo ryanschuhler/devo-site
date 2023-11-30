@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 2"
+week: 2
 ---
-# DEVOCIONAL 2
 
 **Estúdiala, Cúmplela, Enséñala**
 

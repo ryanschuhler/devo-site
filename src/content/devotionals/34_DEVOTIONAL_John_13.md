@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 34"
+week: 34
 ---
-# DEVOTIONAL 34
 
 **The Mark of Discipleship**
 

@@ -1,4 +1,7 @@
-**DEVOCIONAL 50**
+---
+title: "DEVOCIONAL 50"
+week: 50
+---
 
 **Enseñar Como una Madre y un Padre**
 

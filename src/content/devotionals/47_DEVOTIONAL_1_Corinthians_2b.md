@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 47"
+week: 47
 ---
-# DEVOTIONAL 47
 
 **Having the Mind of Christ**
 

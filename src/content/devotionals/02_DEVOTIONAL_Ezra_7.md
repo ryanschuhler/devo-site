@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 2"
+week: 2
 ---
-# DEVOTIONAL 2
 
 **Study it, Do it, Teach it**
 

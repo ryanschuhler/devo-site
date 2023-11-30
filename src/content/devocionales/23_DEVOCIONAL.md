@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 23"
+week: 23
 ---
-# DEVOCIONAL 23
 
 **Crecer en la Madurez en Cristo**
 

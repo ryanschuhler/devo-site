@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 9"
+week: 9
 ---
-# DEVOTIONAL 9
 
 **God Our Teacher**
 

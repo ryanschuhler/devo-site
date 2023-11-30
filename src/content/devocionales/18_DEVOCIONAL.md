@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 18"
+week: 18
 ---
-# DEVOCIONAL 18
 
 **Despojarse, Renovarse, Vestirse**
 

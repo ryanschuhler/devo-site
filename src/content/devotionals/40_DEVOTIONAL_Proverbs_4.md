@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 40"
+week: 40
 ---
-# DEVOTIONAL 40
 
 **The Beginning of Wisdom**
 

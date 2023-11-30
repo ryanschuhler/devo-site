@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 11"
+week: 11
 ---
-# DEVOCIONAL 11
 
 **Permanecer y Dar Mucho Fruto**
 

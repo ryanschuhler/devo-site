@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 41"
+week: 41
 ---
-# DEVOTIONAL 41
 
 **Teaching Ourselves First**
 

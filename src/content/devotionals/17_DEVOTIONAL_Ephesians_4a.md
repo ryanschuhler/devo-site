@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 17"
+week: 17
 ---
-# DEVOTIONAL 17
 
 **Equipping the Saints, Building up the Body**
 

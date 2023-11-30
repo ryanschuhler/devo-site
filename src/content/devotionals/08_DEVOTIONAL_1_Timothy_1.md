@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 8"
+week: 8
 ---
-# DEVOTIONAL 8
 
 **The Goal of Our Teaching**
 

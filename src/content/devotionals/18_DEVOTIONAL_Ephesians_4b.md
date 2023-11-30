@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 18"
+week: 18
 ---
-# DEVOTIONAL 18
 
 **Putting Off, Being Renewed, Putting On**
 

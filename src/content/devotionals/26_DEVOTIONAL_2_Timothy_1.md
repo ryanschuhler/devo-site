@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 26"
+week: 26
 ---
-# DEVOTIONAL 26
 
 **Following the Pattern of Sound Words**
 

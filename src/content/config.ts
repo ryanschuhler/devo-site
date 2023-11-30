@@ -4,12 +4,14 @@ const devocionales = defineCollection({
 	type: 'content',
 	schema: z.object({
 		title: z.string().optional(),
+		week: z.number().optional(),
 	})
 });
 const devotionals = defineCollection({
 	type: 'content',
 	schema: z.object({
 		title: z.string().optional(),
+		week: z.number().optional(),
 	})
 });
 const tips = defineCollection({

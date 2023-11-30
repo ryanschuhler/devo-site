@@ -1,4 +1,7 @@
-**DEVOCIONAL 31**
+---
+title: "DEVOCIONAL 31"
+week: 31
+---
 
 **Que la Palabra de Cristo More en Abundancia en Ti  
 **

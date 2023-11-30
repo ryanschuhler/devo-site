@@ -1,39 +1,89 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;500;700&display=swap');
 
 :root {
-	--main-family: 'Lato', sans-serif;
-	--footer-bg-color: #000000;
-	--footer-font-color: #656565;
-	--footer-header-color: #FFFFFF;
+	--color-light: #F1F1F1;
+	--color-light-2: #D8D8D8;
+	--color-dark: #000000;
+	--color-dark-2: #656565;
+	--width-full: 1200px;
+	--width-lg: 800px;
+	--width-md: 600px;
+	--width-sm: 400px;
+
+	--border-color-base: var(--color-dark);
+	--border-color-btn-primary: var(--color-light);
+	--border-style-base: solid;
+	--border-radius-base: 0;
+	--border-radius-btn: 0;
+	--border-width-base: 1px;
+	--color-bg-base: var(--color-light);
+	--color-bg-btn-primary: var(--color-dark);
+	--color-bg-btn-primary-hover: var(--color-dark-2);
+	--color-bg-btn-base: var(--color-light-2);
+	--color-bg-btn-base-hover: var(--color-light);
+	--color-bg-footer: var(--color-dark);
+	--color-text-base: var(--color-dark-2);
+	--color-text-btn-base: var(--color-dark);
+	--color-text-btn-primary: var(--color-light);
+	--color-text-footer: var(--color-dark-2);
+	--color-text-heading: var(--color-dark);
+	--color-text-heading-footer: var(--color-light);
+	--font-family-base: 'Lato', sans-serif;
+	--font-family-heading: 'Merriweather', 'Lato', sans-serif;
+	--font-size-base: 18px;
+	--font-size-1: 2.5rem;
+	--font-size-2: 2rem;
+	--font-size-3: 1.75rem;
+	--font-size-4: 1.5rem;
+	--font-size-5: 1.25rem;
+	--font-weight-base: 400;
+	--font-weight-bold: 700;
+	--line-height-base: 1.5em;
+	--opacity-base: .7;
+	--spacing-0: 0;
+	--spacing-1: .5rem;
+	--spacing-2: .75rem;
+	--spacing-3: 1rem;
+	--spacing-4: 1.5rem;
+	--spacing-5: 2rem;
+	--spacing-6: 3rem;
+
 }
 
 html {
-  background: var(--color-bg);
-  font-family: var(--main-family);
-  min-height: 100%;
+	background: var(--color-bg-base);
+	font-family: var(--font-family-base);
+	min-height: 100%;
 }
 
-button,
-input,
-select,
-textarea {
-	font-size: 16px;
-	font-size: 1rem;
-	line-height: 1.5;
+footer, header, main {
+	margin: 0 auto;
+	max-width: var(--width-full);
 }
 
-pre {
-	background: #eee;
-	font-family: "Raleway", Courier, monospace;
-	font-size: 15px;
-	font-size: 0.9375rem;
-	line-height: 1.6;
-	margin-bottom: 1.6em;
-	max-width: 100%;
-	overflow: auto;
-	padding: 1.6em;
+
+a, button, h1, h2, h3, h4, h5, input, p, span {
+	line-height: var(--line-height-base);
+}
+
+blockquote {
+	background: var(--color-light-2);
+	border-left-color: var(--color-dark-2);
+	border-left-style: var(--border-style-base);
+	border-left-width: 6px;
+	margin: var(--spacing-2) 0;
+	padding: var(--spacing-2) var(--spacing-3);
+}
+
+blockquote p {
+	margin: 0;
+}
+
+h1, h2 {
+	font-family: var(--font-family-heading);
+	font-weight: var(--font-weight-base);
+	line-height: var(--line-height-base);
 }
 
 ul {
@@ -58,52 +108,48 @@ ul ul ul {
 
 li > ul,
 li > ol {
-	margin-bottom: 0;
-	margin-left: 1.5em;
+	margin-bottom: var(--spacing-0);
+	margin-left: var(--spacing-4);
 }
 
 img {
-	height: auto; /* Make sure images are scaled correctly. */
-	max-width: 100%; /* Adhere to container width. */
+	height: auto;
+	max-width: 100%;
 }
 
 table {
-	margin: 0 0 1.5em;
+	margin: 0 0 var(--spacing-4);
 }
 
-/*--------------------------------------------------------------
-#  Forms
---------------------------------------------------------------*/
 button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-	border: none;
-	background: #0074c4;
-	color: #ffffff;
-	font-size: 16px;
-	line-height: 1.5;
-	padding: 10px 20px;
-	text-transform: uppercase;
-	font-weight: bold;
+	background-color: var(--color-bg-btn-base);
+	border-color: var(--border-color-base);
+	border-radius: var(--border-radius-btn);
+	border-style: var(--border-style-base);
+	border-width: var(--border-width-base);
+	color: var(--color-text-btn-base);
+	cursor: pointer;
+	padding: var(--spacing-1) var(--spacing-2);
+	font-size: var(--font-size-base);
+	font-weight: var(--font-weight-bold);
 }
 
-button:hover,
-input[type="button"]:hover,
-input[type="reset"]:hover,
-input[type="submit"]:hover {
-	opacity: 0.7;
-}
-
-input[type="button"]:focus,
-input[type="reset"]:focus,
-input[type="submit"]:focus,
-input[type="button"]:active,
-input[type="reset"]:active,
-input[type="submit"]:active,
+button:active,
 button:focus,
-button:active {
-	border-color: #e5e5e5 #e5e5e5 #e5e5e5;
+button:hover,
+input[type="button"]:active,
+input[type="button"]:focus,
+input[type="button"]:hover,
+input[type="reset"]:active,
+input[type="reset"]:focus,
+input[type="reset"]:hover,
+input[type="submit"]:active,
+input[type="submit"]:focus,
+input[type="submit"]:hover {
+	background-color: var(--color-bg-btn-base-hover);
 }
 
 input[type="text"],
@@ -112,9 +158,15 @@ input[type="url"],
 input[type="password"],
 input[type="search"],
 textarea {
-	color: #999;
-	border: 1px solid #e5e6e9;
-	padding: 8px 14px;
+	background-color: var(--color-bg-btn-base);
+	border-color: var(--border-color-base);
+	border-radius: var(--border-radius-base);
+	border-style: var(--border-style-base);
+	border-width: var(--border-width-base);
+	color: var(--color-text-btn-base);
+	font-size: var(--font-size-base);
+	outline: none;
+	padding: var(--spacing-1) var(--spacing-2);
 }
 
 input[type="text"]:focus,
@@ -123,125 +175,168 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 input[type="search"]:focus,
 textarea:focus {
-	color: #010101;
-}
-
-textarea {
-	padding-left: 5px;
-	width: 100%;
-}
-
-/*--------------------------------------------------------------
-#  Alignments
---------------------------------------------------------------*/
-.alignleft {
-	display: inline;
-	float: left;
-	margin-right: 1.5em;
-}
-
-.alignright {
-	display: inline;
-	float: right;
-	margin-left: 1.5em;
-}
-
-.aligncenter {
-	clear: both;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-/*--------------------------------------------------------------
-#  Widgets
---------------------------------------------------------------*/
-.widget {
-	margin: 0;
-	padding-bottom: 20px;
-}
-
-/* Make sure select elements fit in widgets. */
-.widget select {
-	max-width: 100%;
-}
-
-/* Search widget. */
-.widget_search .search-submit {
-	display: none;
-}
-.widget-area .search-field {
-	width: 100%;
-	height: 46px;
-	line-height: 46px;
-	box-sizing: border-box;
-}
-
-.widget ul li a:hover {
-	opacity: 0.8;
-}
-
-.widget-area {
-	width: 30%;
-	float: left;
-}
-.widget {
-	width: 100%;
-	padding: 8.8%;
-	float: left;
-	clear: both;
-}
-.widget h2 {
-	font-size: 20px;
-	color: #1a1a1a;
-	border-bottom: 4px solid #1a1a1a;
-	text-transform: uppercase;
-	margin-top: 0;
-	margin-bottom: 20px;
-	padding-bottom: 15px;
-}
-.widget ul {
-	padding: 0;
-	margin-bottom: 0;
-	list-style-position: inside;
-}
-.widget > ul {
-	margin: 0;
-}
-.widget ul li {
-	padding: 0 0 10px 0;
-}
-.widget ul li:last-child {
-	padding-bottom: 0;
-}
-.widget ul li.recentcomments {
-	color: #919191;
-}
-.widget .popular-post-meta,
-.widget .recent-post-meta {
-	font-size: 12px;
-	line-height: normal;
-}
-.widget .post-img {
-	float: left;
-	margin-right: 10px;
+	background-color: var(--color-bg-btn-base-hover);
 }
 
 footer {
-	background-color: var(--footer-bg-color);
-	color: var(--footer-font-color);
+	background-color: var(--color-bg-footer);
+	box-sizing: border-box;
+	color: var(--color-text-footer);
 	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: var(--spacing-5) auto;
+	padding: var(--spacing-4);
 }
 
 footer h2, footer h3, footer label {
-	color: var(--footer-header-color);
+	color: var(--color-text-heading-footer);
+}
+
+footer h3::after {
+	display: block;
+	height: 2px;
+	width: 40px;
+	content: ' ';
+	background: var(--color-text-footer);
+	margin-top: 7px;
+}
+
+footer label {
+	display: block;
+	color: var(--color-text-base);
+	margin-bottom: var(--spacing-1);
+}
+
+footer .site-details {
+	flex-basis: 66%;
+}
+
+footer .site-form {
+	flex-basis: 33%;
 }
 
 footer .site-info {
-	border-top: 1px solid var(--footer-header-color);
-	color: var(--footer-header-color);
+	border-top-color: var(--color-dark-2);
+	border-top-style: var(--border-style-base);
+	border-width: var(--border-width-base);
+	flex-basis: 100%;
+	margin-top: var(--spacing-3);
+	padding-top: var(--spacing-3);
+	text-align: center;
 }
 
-footer .site-details, footer .site-form {
+header {
+	margin-bottom: var(--spacing-5);
+	text-align: center;
+}
 
+header a {
+	color: inherit;
+	display: block;
+	padding: var(--spacing-0) var(--spacing-1);
+	position: relative;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+header ul a:hover, header ul li.active a {
+	text-decoration: underline;
+}
+
+header li {
+	display: inline-block;
+}
+
+header ul {
+	list-style: none;
+	padding: 0;
+}
+
+header .language-navigation {
+	margin-bottom: var(--spacing-6);
+}
+
+header .language-navigation li:first-child {
+	border-right-color: var(--border-color-base);
+	border-right-style: var(--border-style-base);
+	border-right-width: var(--border-width-base);
+}
+
+header .site-navigation {
+	border-bottom-color: var(--border-color-base);
+	border-bottom-style: var(--border-style-base);
+	border-bottom-width: var(--border-width-base);
+	border-top-color: var(--border-color-base);
+	border-top-style: var(--border-style-base);
+	border-top-width: var(--border-width-base);
+}
+
+header .site-navigation a {
+	padding: var(--spacing-2) var(--spacing-3);
+}
+
+header .site-navigation ul {
+	margin: 0;
+}
+
+header .site-title {
+	font-size: var(--font-size-1);
+	margin-bottom: 0;
+	margin-top: var(--spacing-6);
+}
+
+.posts ul {
+	display: grid;
+	gap: var(--spacing-3);
+	grid-template-columns: repeat(3, 1fr);
+	list-style: none;
+	padding: 0;
+}
+
+.posts a {
+	color: inherit;
+	display: block;
+	height: 100%;
+	text-align: center;
+	text-decoration: none;
+}
+
+.posts a:hover {
+	background-color: var(--color-light-2);
+}
+
+.section {
+	border-color: var(--border-color-base);
+	border-style: var(--border-style-base);
+	border-width: var(--border-width-base);
+	box-sizing: border-box;
+	padding: var(--spacing-4);
+	margin: 0 auto;
+}
+
+.section h2, .section h3 {
+	margin-bottom: var(--spacing-3);
+	text-align: center;
+}
+
+.section h3 {
+	background-color: var(--color-light);
+	padding: var(--spacing-0) var(--spacing-3);
+}
+
+.section .section-title {
+	margin-top: -33%;
+	text-transform: uppercase;
+}
+
+.section .section-info {
+	margin-bottom: var(--spacing-3);
+	padding: var(--spacing-0) var(--spacing-3);
+}
+
+.starter-page {
+	align-items: center;
+	display:flex;
+	min-height: 100vh;
 }

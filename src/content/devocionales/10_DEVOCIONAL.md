@@ -1,4 +1,7 @@
-**DEVOCIONAL 10**
+---
+title: "DEVOCIONAL 10"
+week: 10
+---
 
 **Confianza en la Obra de Dios**
 

@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 24"
+week: 24
 ---
-# DEVOCIONAL 24
 
 **Guardando Tu Palabra en Mi Corazón**
 

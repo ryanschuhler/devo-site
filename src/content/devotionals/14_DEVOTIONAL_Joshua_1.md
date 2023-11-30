@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 14"
+week: 14
 ---
-# DEVOTIONAL 14
 
 **Be Strong and Courageous**
 

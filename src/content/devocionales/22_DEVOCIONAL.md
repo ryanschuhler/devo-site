@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 22"
+week: 22
 ---
-# DEVOCIONAL 22
 
 **Cuidar de Nosotros Mismos y de Nuestra Enseñanza**
 

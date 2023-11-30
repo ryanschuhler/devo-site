@@ -3,7 +3,7 @@ layout: ../layouts/LayoutEs.astro
 title: "Inicio"
 ---
 
-![Bible and Coffee](../../public/bible_and_coffee.jpg)
+![Bible and Coffee](/bible_and_coffee.jpg)
 
 > Make me know your ways, O LORD;
 > teach me your paths.

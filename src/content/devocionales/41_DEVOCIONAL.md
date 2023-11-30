@@ -1,4 +1,7 @@
-> **DEVOCIONAL 41**
+---
+title: "DEVOCIONAL 41"
+week: 41
+---
 
 **Enseñarnos Primero a Nosotros Mismos  
 **

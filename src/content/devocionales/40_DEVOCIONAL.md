@@ -1,7 +1,7 @@
 ---
 title: "DEVOCIONAL 40"
+week: 40
 ---
-# DEVOCIONAL 40
 
 **El Principio de la Sabiduría  
 **

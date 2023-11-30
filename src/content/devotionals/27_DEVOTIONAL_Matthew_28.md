@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 27"
+week: 27
 ---
-# DEVOTIONAL 27
 
 **Go and Make Disciples**
 

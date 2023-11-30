@@ -1,7 +1,7 @@
 ---
 title: "DEVOTIONAL 23"
+week: 23
 ---
-# DEVOTIONAL 23
 
 **Growing Toward Maturity in Christ**
 
