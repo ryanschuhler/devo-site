@@ -1,5 +1,6 @@
 ---
-layout: ../layouts/LayoutEs.astro
+lang: "es"
+layout: ../layouts/Layout.astro
 title: "Inicio"
 ---
 

@@ -1,0 +1,44 @@
+---
+import { SITE_TITLE } from '../const';
+
+const { frontmatter } = Astro.props;
+const currentPath = Astro.url.pathname;
+---
+
+{frontmatter.lang == "en" &&
+	<header class="site-header">
+		<h2 class="site-title"><a href="/" rel="home">{SITE_TITLE}</a></h2>
+		<nav class="language-navigation">
+			<ul>
+				<li><a href="/home">English</a></li>
+				<li><a href="/inicio">Español</a></li>
+			</ul>
+		</nav>
+		<nav class="site-navigation">
+			<ul>
+				<li class={currentPath.includes("/home") ? "active" : ""}><a href="/home">Home</a></li>
+				<li class={currentPath.includes("/devotionals") ? "active" : ""}><a href="/devotionals">Devotionals</a></li>
+				<li class={currentPath.includes("/about") ? "active" : ""}><a href="/about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+}
+
+{frontmatter.lang == "es" &&
+	<header class="site-header">
+		<h2 class="site-title"><a href="/" rel="home">{SITE_TITLE}</a></h2>
+		<nav class="language-navigation">
+			<ul>
+				<li><a href="/home">English</a></li>
+				<li><a href="/inicio">Español</a></li>
+			</ul>
+		</nav>
+		<nav class="site-navigation">
+			<ul>
+				<li class={currentPath.includes("/inicio") ? "active" : ""}><a href="/inicio">Inicio</a></li>
+				<li class={currentPath.includes("/devocionales") ? "active" : ""}><a href="/devocionales">Devocionales</a></li>
+				<li class={currentPath.includes("/acerca-de") ? "active" : ""}><a href="/acerca-de">Acerca De</a></li>
+			</ul>
+		</nav>
+	</header>
+}

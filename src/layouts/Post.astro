@@ -1,17 +1,18 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import Layout from './LayoutEn.astro';
+import Layout from './Layout.astro';
 
-const { title } = Astro.props;
+const frontmatter = Astro.props;
 
 type Props = CollectionEntry<"devotionals">['data'];
+type PropsES = CollectionEntry<"devocionales">['data'];
 ---
 
-<Layout>
+<Layout frontmatter={frontmatter}>
 	<article>
 		<div class="prose">
 			<div class="title">
-				<h1>{title}</h1>
+				<h1>{frontmatter.title}</h1>
 			</div>
 			<slot />
 		</div>

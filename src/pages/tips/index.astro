@@ -1,11 +1,12 @@
 ---
-import Layout from '../../layouts/LayoutEn.astro';
+import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
+const frontmatter = { lang: "en" };
 const tips = await getCollection('tips');
 ---
 
-<Layout>
+<Layout frontmatter={frontmatter}>
 	<section>
 		<ul>
 			{

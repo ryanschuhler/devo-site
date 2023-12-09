@@ -1,18 +1,19 @@
 ---
-import Layout from '../../layouts/LayoutEs.astro';
+import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
+const frontmatter = { lang: "es" };
 const devocionales = await getCollection('devocionales');
 ---
 
-<Layout>
+<Layout frontmatter={frontmatter}>
 	<section class="posts">
 		<ul>
 			{
 				devocionales.map((devocional) => (
 					<li>
 						<a class="section" href={`/devocionales/${devocional.slug}/`}>
-							<h4 class="title">{devocional.data.title}</h4>
+							<h3 class="title">{devocional.data.title}</h3>
 							{devocional.data.week && <span>Semana {devocional.data.week}</span>}
 						</a>
 					</li>

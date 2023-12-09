@@ -1,0 +1,21 @@
+---
+import BaseHead from '../components/Head.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const { frontmatter } = Astro.props;
+---
+
+<html lang={frontmatter.lang}>
+	<head>
+		<BaseHead frontmatter={frontmatter} />
+	</head>
+
+	<body>
+		<Header frontmatter={frontmatter}/>
+		<main>
+			<slot />
+		</main>
+		<Footer frontmatter={frontmatter}/>
+	</body>
+</html>

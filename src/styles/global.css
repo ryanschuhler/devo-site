@@ -321,7 +321,6 @@ header .site-title {
 }
 
 .section h3 {
-	background-color: var(--color-light);
 	padding: var(--spacing-0) var(--spacing-3);
 }
 

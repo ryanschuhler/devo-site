@@ -1,24 +1,17 @@
 import { defineCollection, z } from 'astro:content';
+import { frontmatterSchema } from '../const';
 
 const devocionales = defineCollection({
 	type: 'content',
-	schema: z.object({
-		title: z.string().optional(),
-		week: z.number().optional(),
-	})
+	schema: frontmatterSchema
 });
 const devotionals = defineCollection({
 	type: 'content',
-	schema: z.object({
-		title: z.string().optional(),
-		week: z.number().optional(),
-	})
+	schema: frontmatterSchema
 });
 const tips = defineCollection({
 	type: 'content',
-	schema: z.object({
-		title: z.string().optional(),
-	})
+	schema: frontmatterSchema
 });
 
 export const collections = {

@@ -1,0 +1,42 @@
+---
+import '../styles/global.css';
+
+const { frontmatter } = Astro.props;
+const { url } = Astro;
+---
+
+<!-- Global Metadata -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<meta name="generator" content={Astro.generator} />
+
+<!-- Primary Meta Tags -->
+<title>{frontmatter.title}</title>
+<meta name="title" content={frontmatter.title} />
+{frontmatter.description &&
+    <meta name="description" content={frontmatter.description} />
+}
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content={url} />
+<meta property="og:title" content={frontmatter.title} />
+{frontmatter.description &&
+    <meta property="og:description" content={frontmatter.description} />
+}
+
+{frontmatter.image &&
+    <meta property="og:image" content={frontmatter.image} />
+}
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content={url} />
+<meta property="twitter:title" content={frontmatter.title} />
+{frontmatter.description &&
+    <meta property="twitter:description" content={frontmatter.description} />
+}
+{frontmatter.image &&
+    <meta property="twitter:image" content={frontmatter.image} />
+}
