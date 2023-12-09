@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 24"
+title: "Storing up Your Word in My Heart"
 week: 24
 ---
 

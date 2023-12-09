@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 13"
+title: "The Power of the Living Word of God"
 week: 13
 ---
 

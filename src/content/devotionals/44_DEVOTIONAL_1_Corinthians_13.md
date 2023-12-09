@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 44"
+title: "Love Above All"
 week: 44
 ---
 

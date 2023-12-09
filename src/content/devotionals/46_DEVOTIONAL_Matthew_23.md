@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 46"
+title: "Our One Teacher"
 week: 46
 ---
 

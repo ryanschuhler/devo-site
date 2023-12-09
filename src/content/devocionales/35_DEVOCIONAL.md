@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 35"
+title: "Examinar las Escrituras"
 week: 35
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 25"
+title: "Knowledge, Pride, and Care for Others"
 week: 25
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 15"
+title: "Semillas y Suelos"
 week: 15
 ---
 

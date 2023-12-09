@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 24"
+title: "Guardando Tu Palabra en Mi Corazón"
 week: 24
 ---
 

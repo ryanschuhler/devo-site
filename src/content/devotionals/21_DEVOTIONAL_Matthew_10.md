@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 21"
+title: "Becoming Like Our Master and Teacher"
 week: 21
 ---
 

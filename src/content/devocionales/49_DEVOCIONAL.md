@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 49"
+title: "El Poder de la Escritura"
 week: 49
 ---
 

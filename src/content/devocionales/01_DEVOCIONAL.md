@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 1"
+title: "¿Me Amas? Apacienta Mis Corderos"
 week: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 8"
+title: "El Objetivo de Nuestra Enseñanza"
 week: 8
 ---
 

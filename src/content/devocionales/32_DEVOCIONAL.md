@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 32"
+title: "Cumple con Tu Ministerio"
 week: 32
 ---
 

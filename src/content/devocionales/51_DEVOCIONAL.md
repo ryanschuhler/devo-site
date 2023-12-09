@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 51"
+title: "Poner Nuestra Confianza en Dios"
 week: 51
 ---
 

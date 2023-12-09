@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 37"
+title: "Enseñar a Quienes Pueden Enseñar a Otros"
 week: 37
 ---
 

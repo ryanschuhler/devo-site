@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 26"
+title: "Retén la Forma de las Sanas Palabras"
 week: 26
 ---
 

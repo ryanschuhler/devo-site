@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 52"
+title: "Written on Our Hearts"
 week: 52
 ---
 

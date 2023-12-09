@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 16"
+title: "Being Transformed by the Renewal of Our Minds"
 week: 16
 ---
 

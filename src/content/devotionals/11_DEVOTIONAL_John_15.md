@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 11"
+title: "Abiding and Bearing Much Fruit"
 week: 11
 ---
 

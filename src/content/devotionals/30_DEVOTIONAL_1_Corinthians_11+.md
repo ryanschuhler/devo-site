@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 30"
+title: "Growing Through Imitation"
 week: 30
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 7"
+title: "To Know the Love of God"
 week: 7
 ---
 

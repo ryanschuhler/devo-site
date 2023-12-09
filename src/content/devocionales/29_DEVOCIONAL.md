@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 29"
+title: "Paciencia, Consolación y Esperanza"
 week: 29
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 39"
+title: "Becoming All Things to All People to Win Some"
 week: 39
 ---
 

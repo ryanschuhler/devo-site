@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 6"
+title: "The Gospel: A Simple, Powerful Message"
 week: 6
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 28"
+title: "The Joy of the Lord is Your Strength"
 week: 28
 ---
 

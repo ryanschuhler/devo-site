@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 36"
+title: "Integrity in Your Teaching"
 week: 36
 ---
 

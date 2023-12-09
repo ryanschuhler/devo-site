@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 10"
+title: "Confidence in God’s Ongoing Work"
 week: 10
 ---
 

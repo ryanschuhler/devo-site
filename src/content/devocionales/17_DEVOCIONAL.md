@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 17"
+title: "Perfeccionar a los Santos, Edificar el Cuerpo"
 week: 17
 ---
 

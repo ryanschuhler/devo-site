@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 4"
+title: "Aprender y Crecer Día a Día"
 week: 4
 ---
 

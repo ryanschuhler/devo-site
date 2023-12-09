@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 50"
+title: "Enseñar Como una Madre y un Padre"
 week: 50
 ---
 

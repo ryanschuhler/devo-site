@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 9"
+title: "Dios, Nuestro Maestro"
 week: 9
 ---
 

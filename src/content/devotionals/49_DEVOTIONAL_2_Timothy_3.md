@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 49"
+title: "The Power of the Scripture"
 week: 49
 ---
 

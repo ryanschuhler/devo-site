@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 20"
+title: "Proclamar tu Poder a Otra Generación"
 week: 20
 ---
 

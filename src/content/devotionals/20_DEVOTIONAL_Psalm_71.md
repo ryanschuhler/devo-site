@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 20"
+title: "Proclaiming Your Might to Another Generation"
 week: 20
 ---
 

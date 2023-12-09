@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 48"
+title: "The Ministry of the Holy Spirit in Our Teaching"
 week: 48
 ---
 

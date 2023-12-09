@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 28"
+title: "El Gozo de Jehová es Vuestra Fuerza"
 week: 28
 ---
 

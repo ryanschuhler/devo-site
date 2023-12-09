@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 11"
+title: "Permanecer y Dar Mucho Fruto"
 week: 11
 ---
 

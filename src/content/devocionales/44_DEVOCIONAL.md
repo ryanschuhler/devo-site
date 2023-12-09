@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 44"
+title: "Amor por Encima de Todo"
 week: 44
 ---
 

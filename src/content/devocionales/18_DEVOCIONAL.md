@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 18"
+title: "Despojarse, Renovarse, Vestirse"
 week: 18
 ---
 

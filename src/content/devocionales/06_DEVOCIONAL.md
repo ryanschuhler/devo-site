@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 6"
+title: "El Evangelio: Un Mensaje Sencillo y Poderoso"
 week: 6
 ---
 

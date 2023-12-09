@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 14"
+title: "Esfuérzate y sé Valiente"
 week: 14
 ---
 

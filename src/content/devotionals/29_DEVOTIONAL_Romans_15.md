@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 29"
+title: "Endurance, Encouragement, and Hope"
 week: 29
 ---
 

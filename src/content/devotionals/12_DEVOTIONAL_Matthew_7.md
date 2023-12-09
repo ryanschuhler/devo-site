@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 12"
+title: "Building on the Rock Instead of Sand"
 week: 12
 ---
 

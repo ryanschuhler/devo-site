@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 14"
+title: "Be Strong and Courageous"
 week: 14
 ---
 

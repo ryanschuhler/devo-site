@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 51"
+title: "Setting Our Hope in God"
 week: 51
 ---
 

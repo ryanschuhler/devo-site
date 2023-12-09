@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 10"
+title: "Confianza en la Obra de Dios"
 week: 10
 ---
 

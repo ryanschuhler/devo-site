@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 42"
+title: "God’s Fellow Workers"
 week: 42
 ---
 

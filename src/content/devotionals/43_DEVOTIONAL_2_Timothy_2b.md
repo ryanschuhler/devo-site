@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 43"
+title: "Teaching with Patience and Gentleness"
 week: 43
 ---
 

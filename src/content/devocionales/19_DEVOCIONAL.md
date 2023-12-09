@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 19"
+title: "Convertirse en Hacedores de la Palabra"
 week: 19
 ---
 

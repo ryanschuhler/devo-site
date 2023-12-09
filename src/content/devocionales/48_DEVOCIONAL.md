@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 48"
+title: "El Ministerio del Espíritu Santo en Nuestra Enseñanza"
 week: 48
 ---
 

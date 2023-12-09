@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 17"
+title: "Equipping the Saints, Building up the Body"
 week: 17
 ---
 

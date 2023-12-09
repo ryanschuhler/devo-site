@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 43"
+title: "Enseñar con Paciencia y Dulzura"
 week: 43
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 4"
+title: "Learning and Growing Day by Day"
 week: 4
 ---
 

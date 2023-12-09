@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 8"
+title: "The Goal of Our Teaching"
 week: 8
 ---
 

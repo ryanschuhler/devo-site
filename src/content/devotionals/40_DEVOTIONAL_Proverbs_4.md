@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 40"
+title: "The Beginning of Wisdom"
 week: 40
 ---
 

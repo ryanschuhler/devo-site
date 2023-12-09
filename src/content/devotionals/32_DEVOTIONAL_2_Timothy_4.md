@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 32"
+title: "Fulfilling Your Ministry"
 week: 32
 ---
 

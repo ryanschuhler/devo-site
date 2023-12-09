@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 16"
+title: "Transformados por la Renovación de Nuestras Mentes"
 week: 16
 ---
 

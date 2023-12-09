@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 33"
+title: "Your Law is Within My Heart"
 week: 33
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 9"
+title: "God Our Teacher"
 week: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 41"
+title: "Teaching Ourselves First"
 week: 41
 ---
 

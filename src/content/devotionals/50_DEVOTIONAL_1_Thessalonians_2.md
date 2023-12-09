@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 50"
+title: "Teaching Like a Mother and a Father"
 week: 50
 ---
 

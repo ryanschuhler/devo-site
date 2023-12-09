@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 30"
+title: "Crecer a Través de la Imitación"
 week: 30
 ---
 

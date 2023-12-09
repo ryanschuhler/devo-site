@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 22"
+title: "Watching Both Ourselves and Our Teaching"
 week: 22
 ---
 

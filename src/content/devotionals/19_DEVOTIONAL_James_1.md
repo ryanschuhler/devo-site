@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 19"
+title: "Becoming Doers of the Word"
 week: 19
 ---
 

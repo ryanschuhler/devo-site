@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 46"
+title: "Nuestro Único Maestro"
 week: 46
 ---
 

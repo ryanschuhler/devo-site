@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 2"
+title: "Study it, Do it, Teach it"
 week: 2
 ---
 

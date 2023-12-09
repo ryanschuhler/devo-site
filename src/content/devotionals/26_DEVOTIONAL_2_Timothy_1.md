@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 26"
+title: "Following the Pattern of Sound Words"
 week: 26
 ---
 

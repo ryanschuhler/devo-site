@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 31"
+title: "Letting the Word of Christ Dwell in You Richly"
 week: 31
 ---
 

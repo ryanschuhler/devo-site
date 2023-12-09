@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 21"
+title: "Llegar a Ser Como Nuestro Señor y Maestro"
 week: 21
 ---
 

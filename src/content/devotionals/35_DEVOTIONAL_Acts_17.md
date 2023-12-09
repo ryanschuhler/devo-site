@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 35"
+title: "Examining the Scriptures"
 week: 35
 ---
 

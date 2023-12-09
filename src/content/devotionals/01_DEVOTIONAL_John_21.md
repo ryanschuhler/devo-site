@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 1"
+title: "Do You Love Me? Feed My Lambs"
 week: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 13"
+title: "El Poder de la Palabra Viva de Dios"
 week: 13
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DEVOTIONAL 5"
+title: "These Words Shall be on Your Heart"
 week: 5
 ---
 

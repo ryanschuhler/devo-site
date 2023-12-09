@@ -1,5 +1,5 @@
 ---
-title: "DEVOCIONAL 2"
+title: "Estúdiala, Cúmplela, Enséñala"
 week: 2
 ---
 
