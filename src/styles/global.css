@@ -57,6 +57,10 @@ html {
 	min-height: 100%;
 }
 
+body {
+	margin: 0;
+}
+
 footer, header, main {
 	margin: 0 auto;
 	max-width: var(--width-full);
@@ -121,6 +125,7 @@ table {
 	margin: 0 0 var(--spacing-4);
 }
 
+.btn,
 button,
 input[type="button"],
 input[type="reset"],
@@ -132,11 +137,16 @@ input[type="submit"] {
 	border-width: var(--border-width-base);
 	color: var(--color-text-btn-base);
 	cursor: pointer;
-	padding: var(--spacing-1) var(--spacing-2);
 	font-size: var(--font-size-base);
 	font-weight: var(--font-weight-bold);
+	margin-right: var(--spacing-1);
+	padding: var(--spacing-1) var(--spacing-2);
+	text-decoration: none;
 }
 
+.btn:active,
+.btn:focus,
+.btn:hover,
 button:active,
 button:focus,
 button:hover,
@@ -203,9 +213,7 @@ footer h3::after {
 }
 
 footer label {
-	display: block;
 	color: var(--color-text-base);
-	margin-bottom: var(--spacing-1);
 }
 
 footer .site-details {
@@ -224,6 +232,15 @@ footer .site-info {
 	margin-top: var(--spacing-3);
 	padding-top: var(--spacing-3);
 	text-align: center;
+}
+
+form input {
+	margin-bottom: var(--spacing-2);
+}
+
+form label {
+	display: block;
+	margin-bottom: var(--spacing-1);
 }
 
 header {
@@ -286,6 +303,11 @@ header .site-title {
 	margin-top: var(--spacing-6);
 }
 
+p {
+	margin-block-start: var(--spacing-5);
+	margin-block-end: var(--spacing-5);;
+}
+
 .posts ul {
 	display: grid;
 	gap: var(--spacing-3);
@@ -311,7 +333,7 @@ header .site-title {
 	border-style: var(--border-style-base);
 	border-width: var(--border-width-base);
 	box-sizing: border-box;
-	padding: var(--spacing-4);
+	padding: var(--spacing-4) var(--spacing-5);
 	margin: 0 auto;
 }
 
@@ -324,9 +346,24 @@ header .site-title {
 	padding: var(--spacing-0) var(--spacing-3);
 }
 
+.section p {
+	margin: 0;
+}
+
 .section .section-title {
-	margin-top: -33%;
+	background: var(--color-light);
+	line-height: 1em;
+	position: relative;
 	text-transform: uppercase;
+	width: fit-content;
+}
+
+.section h1.section-title {
+	margin-top: -1.5em;
+}
+
+.section h4.section-title {
+	margin-top: -2.1em;
 }
 
 .section .section-info {
@@ -336,6 +373,37 @@ header .site-title {
 
 .starter-page {
 	align-items: center;
+	box-sizing: border-box;
 	display:flex;
+	padding: var(--spacing-1);
 	min-height: 100vh;
+}
+
+.starter-page .site-title {
+	margin-top: 0;
+}
+
+.two-columns {
+	display: flex;
+	gap: var(--spacing-5);
+}
+
+.column-one {
+	flex-basis: 70%;
+	width: 100%;
+}
+
+.column-two {
+	flex-basis: 30%;
+	width: 100%;
+}
+
+.column-two .section {
+	margin-bottom: var(--spacing-5);
+}
+
+@media (max-width: 800px) {
+	.two-columns {
+		flex-direction: column;
+	}
 }

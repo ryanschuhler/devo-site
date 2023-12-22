@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import Layout from './Layout.astro';
+import Columns from '../components/Columns.astro';
 
 const frontmatter = Astro.props;
 
@@ -9,12 +10,33 @@ type PropsES = CollectionEntry<"devocionales">['data'];
 ---
 
 <Layout frontmatter={frontmatter}>
-	<article>
-		<div class="prose">
-			<div class="title">
-				<h1>{frontmatter.title}</h1>
-			</div>
+	<Columns>
+		<article class="column-one section" slot="column-one">
+			<h1 class="section-title">{frontmatter.title}</h1>
 			<slot />
+		</article>
+		<div class="column-two" slot="column-two">
+			<section class="section">
+				<h4 class="section-title">Join the Mailing List</h4>
+				<form name="signup" method="POST" data-netlify="true">
+					<label for="email">Email</label>
+					<input type="email" name="email" />
+					<button type="submit">Sign Up</button>
+				</form>
+			</section>
+
+			<section class="section">
+				<h4 class="section-title">Purchase the Book</h4>
+				<a class="btn" href="https://www.amazon.com/Feeding-Soul-Bible-Study-
+				Leader/dp/B0CHVZLBH7/ref=sr_1_1?crid=1E8FXPHN8M68W&amp;keywords=feeding+the+soul+of+
+				the+bible+study+leader&amp;qid=1701736434&amp;s=books&amp;sprefix=feeding+the+soul+of+the+bible+s
+				tudy+leader%2Cstripbooks%2C135&amp;sr=1-1">English</a>
+	
+				<a class="btn" href="https://www.amazon.com/Alimentando-Alma-Líder-Estudios-
+				Bíblicos/dp/B0CK3QDGRJ/ref=sr_1_1?crid=YLKWGA87CF2M&amp;keywords=ALIMENTANDO+EL+AL
+				MA+DEL+LÍDER+DE+ESTUDIOS+BÍBLICOS&amp;qid=1701736538&amp;s=books&amp;sprefix=alimentando+el+
+				alma+del+líder+de+estudios+bíblicos%2Cstripbooks%2C1073&amp;sr=1-1">Spanish</a>
+			</section>
 		</div>
-	</article>
+	</Columns>
 </Layout>

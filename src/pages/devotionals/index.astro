@@ -4,6 +4,8 @@ import { getCollection } from 'astro:content';
 
 const frontmatter = { lang: "en" };
 const devotionals = await getCollection('devotionals');
+ // @ts-ignore: Object is possibly 'null'.
+devotionals.sort((a, b) => a.data.week -  b.data.week);
 ---
 
 <Layout frontmatter={frontmatter}>
@@ -14,7 +16,7 @@ const devotionals = await getCollection('devotionals');
 					<li>
 						<a class="section" href={`/devotionals/${devotional.slug}/`}>
 							<h3 class="title">{devotional.data.title}</h3>
-							{devotional.data.week && <span>Week {devotional.data.week}</span>}
+							{devotional.data.week ? <span>Week {devotional.data.week}</span>: ""}
 						</a>
 					</li>
 				))

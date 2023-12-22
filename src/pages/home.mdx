@@ -4,11 +4,29 @@ layout: ../layouts/Layout.astro
 title: "Home"
 ---
 
+import Columns from '../components/Columns.astro';
+
 ![Bible and Coffee](/bible_and_coffee.jpg)
 
-Welcome to “Feeding the Soul of the Bible Study Leader”! Below you will find an introduction
-to the devotional resources for Bible study leaders available on this website. The navigation of
-the website is fairly simple and we hope you find encouragement in the devotions offered.
-Please visit “About” to learn more about this website and its planned development. We also
-invite you to sign up below to receive a weekly email with a link to each of the 52 devotionals
-available on this site. (Note: You can unsubscribe at any time.)
+<Columns>
+	<div class="column-one section" slot="column-one">
+		<h4 class="section-title">Welcome</h4>
+
+		Welcome to “Feeding the Soul of the Bible Study Leader”! Below you will find an introduction
+		to the devotional resources for Bible study leaders available on this website. The navigation of
+		the website is fairly simple and we hope you find encouragement in the devotions offered.
+		Please visit “About” to learn more about this website and its planned development. We also
+		invite you to sign up below to receive a weekly email with a link to each of the 52 devotionals
+		available on this site. (Note: You can unsubscribe at any time.)
+	</div>
+	<div class="column-two" slot="column-two">
+		<section class="section site-form">
+			<h4 class="section-title">Join the Mailing List</h4>
+			<form name="signup" method="POST" data-netlify="true">
+				<label for="email">Email</label>
+				<input type="email" name="email" />
+				<button type="submit">Sign Up</button>
+			</form>
+		</section>
+	</div>
+</Columns>
