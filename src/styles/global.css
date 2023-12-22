@@ -58,7 +58,7 @@ html {
 }
 
 body {
-	margin: 0;
+	margin: var(--spacing-1);
 }
 
 footer, header, main {
