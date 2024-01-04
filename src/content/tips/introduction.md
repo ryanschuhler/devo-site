@@ -1,4 +1,5 @@
 ---
-title: "FEEDING THE SOUL OF THE BIBLE STUDY LEADER"
+title: "Tips for the Bible Study Leader"
+week: 1
 ---
 Tips
