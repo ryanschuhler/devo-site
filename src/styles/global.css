@@ -225,12 +225,12 @@ footer .site-form {
 }
 
 footer .site-info {
-	border-top-color: var(--color-dark-2);
-	border-top-style: var(--border-style-base);
-	border-width: var(--border-width-base);
+	/* border-top-color: var(--color-dark-2); */
+	/* border-top-style: var(--border-style-base); */
+	/* border-width: var(--border-width-base); */
 	flex-basis: 100%;
-	margin-top: var(--spacing-3);
-	padding-top: var(--spacing-3);
+	/* margin-top: var(--spacing-3); */
+	/* padding-top: var(--spacing-3); */
 	text-align: center;
 }
 
@@ -406,4 +406,17 @@ p {
 	.two-columns {
 		flex-direction: column;
 	}
+}
+
+#sib-container {
+	background: none;
+	padding: 0;
+}
+
+.sib-form {
+	padding: 0;
+}
+
+.sib-form-block {
+	padding: 0;
 }

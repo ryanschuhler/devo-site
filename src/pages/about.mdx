@@ -5,8 +5,7 @@ title: "About"
 ---
 
 import Columns from '../components/Columns.astro';
-
-![Bible and Pen](/bible_and_pen.jpg)
+import Purchase from '../components/Purchase.astro';
 
 <Columns>
 	<div class="column-one section" slot="column-one">
@@ -35,17 +34,6 @@ import Columns from '../components/Columns.astro';
 		Kevin E. Lawson
 	</div>
 	<div class="column-two" slot="column-two">
-		<div class="section">
-			<h4 class="section-title">Purchase the Book</h4>
-			<a class="btn" href="https://www.amazon.com/Feeding-Soul-Bible-Study-
-			Leader/dp/B0CHVZLBH7/ref=sr_1_1?crid=1E8FXPHN8M68W&amp;keywords=feeding+the+soul+of+
-			the+bible+study+leader&amp;qid=1701736434&amp;s=books&amp;sprefix=feeding+the+soul+of+the+bible+s
-			tudy+leader%2Cstripbooks%2C135&amp;sr=1-1" target="_blank">English</a>
-
-			<a class="btn" href="https://www.amazon.com/Alimentando-Alma-Líder-Estudios-
-			Bíblicos/dp/B0CK3QDGRJ/ref=sr_1_1?crid=YLKWGA87CF2M&amp;keywords=ALIMENTANDO+EL+AL
-			MA+DEL+LÍDER+DE+ESTUDIOS+BÍBLICOS&amp;qid=1701736538&amp;s=books&amp;sprefix=alimentando+el+
-			alma+del+líder+de+estudios+bíblicos%2Cstripbooks%2C1073&amp;sr=1-1" target="_blank">Español</a>
-		</div>
+		<Purchase frontmatter={frontmatter} />
 	</div>
 </Columns>

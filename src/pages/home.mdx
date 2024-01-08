@@ -5,6 +5,7 @@ title: "Home"
 ---
 
 import Columns from '../components/Columns.astro';
+import Signup from '../components/Signup.astro';
 
 ![Bible and Coffee](/bible_and_coffee.jpg)
 
@@ -21,13 +22,6 @@ import Columns from '../components/Columns.astro';
 		available on this site. (Note: You can unsubscribe at any time.)
 	</div>
 	<div class="column-two" slot="column-two">
-		<section class="section site-form">
-			<h4 class="section-title">Join the Mailing List</h4>
-			<form name="signup" method="POST" data-netlify="true">
-				<label for="email">Email</label>
-				<input type="email" name="email" />
-				<button type="submit">Sign Up</button>
-			</form>
-		</section>
+		<Signup frontmatter={frontmatter} />
 	</div>
 </Columns>
