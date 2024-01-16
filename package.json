@@ -16,10 +16,13 @@
     "@astrojs/mdx": "^1.1.2",
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.0.2",
+    "@fontsource/lato": "^5.0.18",
+    "@fontsource/merriweather": "^5.0.8",
     "@netlify/functions": "^2.3.0",
     "@types/node-fetch": "^2.6.7",
     "astro": "^3.3.2",
     "node-fetch": "^3.3.2",
     "nodemailer": "^6.9.8"
+    
   }
 }

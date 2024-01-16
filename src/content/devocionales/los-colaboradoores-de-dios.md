@@ -1,8 +1,7 @@
 ---
-title: "DEVOCIONAL 42"
+title: "LOS COLABORADORES DE DIOS"
 week: 42
 ---
-**
 
 > De manera que yo, hermanos, no pude hablaros como a espirituales,
 > sino como a carnales, como a niños en Cristo. Os di a beber leche, y

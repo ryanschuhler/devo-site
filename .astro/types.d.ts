@@ -185,13 +185,6 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"devocionales": {
-"alimentando-el-alma-del-líder-de-estudios-bíblicos.md": {
-	id: "alimentando-el-alma-del-líder-de-estudios-bíblicos.md";
-  slug: "alimentando-el-alma-del-líder-de-estudios-bíblicos";
-  body: string;
-  collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
-} & { render(): Render[".md"] };
 "amor-por-encima-de-todo.md": {
 	id: "amor-por-encima-de-todo.md";
   slug: "amor-por-encima-de-todo";
@@ -286,13 +279,6 @@ declare module 'astro:content' {
 "despojarse-renovarse-vestirse.md": {
 	id: "despojarse-renovarse-vestirse.md";
   slug: "despojarse-renovarse-vestirse";
-  body: string;
-  collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
-} & { render(): Render[".md"] };
-"devocional-42.md": {
-	id: "devocional-42.md";
-  slug: "devocional-42";
   body: string;
   collection: "devocionales";
   data: InferEntrySchema<"devocionales">
@@ -447,6 +433,13 @@ declare module 'astro:content' {
 "llegar-a-ser-como-nuestro-señor-y-maestro.md": {
 	id: "llegar-a-ser-como-nuestro-señor-y-maestro.md";
   slug: "llegar-a-ser-como-nuestro-señor-y-maestro";
+  body: string;
+  collection: "devocionales";
+  data: InferEntrySchema<"devocionales">
+} & { render(): Render[".md"] };
+"los-colaboradoores-de-dios.md": {
+	id: "los-colaboradoores-de-dios.md";
+  slug: "los-colaboradoores-de-dios";
   body: string;
   collection: "devocionales";
   data: InferEntrySchema<"devocionales">
@@ -708,13 +701,6 @@ declare module 'astro:content' {
 "integrity-in-your-teaching.md": {
 	id: "integrity-in-your-teaching.md";
   slug: "integrity-in-your-teaching";
-  body: string;
-  collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
-} & { render(): Render[".md"] };
-"introduction.md": {
-	id: "introduction.md";
-  slug: "introduction";
   body: string;
   collection: "devotionals";
   data: InferEntrySchema<"devotionals">
