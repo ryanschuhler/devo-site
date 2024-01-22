@@ -2,6 +2,8 @@ import { z } from 'astro:content';
 
 export const SITE_TITLE = 'Feeding the Soul of the Bible Study Leader';
 export const SITE_TITLE_ES = 'Alimentando el alma del líder de estudios Bíblicos';
+export const SITE_DOMAIN = 'https://www.biblestudyleader.com';
+export const SITE_DOMAIN_ES = 'https://www.liderdeestudiobiblico.com';
 
 export const frontmatterSchema = z.object({
     description: z.string().optional(),
