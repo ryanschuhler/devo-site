@@ -4,6 +4,8 @@ import { getDateOfWeek } from '../util';
 
 export async function GET(context) {
   const devocionales = await getCollection('devocionales');
+  devocionales.sort((a, b) => a.data.week -  b.data.week);
+
   return rss({
     title: 'The Bible Study Leader ES',
     description: 'Nurturing the Soul of the Bible Study Leader',
