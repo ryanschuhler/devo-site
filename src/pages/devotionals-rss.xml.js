@@ -1,15 +1,15 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 import { getDateOfWeek } from '../util';
-import { SITE_DOMAIN } from '../const';
+import { SITE_TITLE, SITE_DOMAIN } from '../const';
 
 export async function GET(context) {
   const devotionals = await getCollection('devotionals');
   devotionals.sort((a, b) => a.data.week -  b.data.week);
 
   return rss({
-    title: 'The Bible Study Leader',
-    description: 'Nurturing the Soul of the Bible Study Leader',
+    title: SITE_TITLE,
+    description: SITE_TITLE,
     site: context.site,
     items: devotionals.map((post) => ({
       title: post.data.title,
