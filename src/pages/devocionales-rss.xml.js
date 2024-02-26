@@ -1,6 +1,7 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 import { getDateOfWeek } from '../util';
+import { SITE_DOMAIN_ES } from '../const';
 
 export async function GET(context) {
   const devocionales = await getCollection('devocionales');
@@ -15,7 +16,7 @@ export async function GET(context) {
       pubDate: getDateOfWeek(post.data.week),
       description: post.data.description,
       week: post.data.week,
-      link: `/devocionales/${post.slug}/`,
+      link: `${SITE_DOMAIN_ES}/devocionales/${post.slug}/`,
     })),
     customData: `<language>es-es</language>`,
   })
