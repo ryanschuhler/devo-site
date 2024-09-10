@@ -1,4 +1,7 @@
-**DEVOCIONAL 46**
+---
+title: ""
+week: 01
+---
 
 **Nosso Único Mestre**
 

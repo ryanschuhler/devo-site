@@ -1,4 +1,7 @@
-**DEVOCIONAL 18**
+---
+title: ""
+week: 01
+---
 
 **Se Despir, Ser Renovado, Se Revestir**
 

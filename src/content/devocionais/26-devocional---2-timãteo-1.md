@@ -1,4 +1,7 @@
-**DEVOCIONAL 26**
+---
+title: ""
+week: 01
+---
 
 **Seguindo o Padrão das Sãs Palavras**
 

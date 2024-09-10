@@ -1,4 +1,7 @@
-**DEVOCIONAL 45**
+---
+title: ""
+week: 01
+---
 
 **Concentrados no Bem, Colocando em Prática Aquilo que Aprendemos**
 

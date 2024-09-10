@@ -1,4 +1,7 @@
-**DEVOCIONAL 23**
+---
+title: ""
+week: 01
+---
 
 **Crescendo Rumo à Maturidade em Cristo**
 

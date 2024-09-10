@@ -1,4 +1,7 @@
-**DEVOCIONAL 19**
+---
+title: ""
+week: 01
+---
 
 **Nos Tornando Praticantes da Palavra**
 

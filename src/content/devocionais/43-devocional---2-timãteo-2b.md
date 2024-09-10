@@ -1,4 +1,7 @@
-**DEVOCIONAL 43**
+---
+title: ""
+week: 01
+---
 
 **Ensinando com Paciência e Mansidão**
 

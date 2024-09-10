@@ -1,4 +1,7 @@
-**DEVOCIONAL 33**
+---
+title: ""
+week: 01
+---
 
 **Sua Lei Está em Meu Coração**
 

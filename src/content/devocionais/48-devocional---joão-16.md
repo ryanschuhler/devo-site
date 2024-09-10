@@ -1,4 +1,7 @@
-**DEVOCIONAL 48**
+---
+title: ""
+week: 01
+---
 
 **O Ministério do Espírito Santo em Nosso Ensino**
 

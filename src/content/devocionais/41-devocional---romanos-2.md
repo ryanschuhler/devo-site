@@ -1,4 +1,7 @@
-**DEVOCIONAL 41**
+---
+title: ""
+week: 01
+---
 
 **Ensinando a Nós Primeiro**
 

@@ -1,4 +1,7 @@
-**DEVOCIONAL 17**
+---
+title: ""
+week: 01
+---
 
 **Preparando os Santos, Edificando o Corpo**
 

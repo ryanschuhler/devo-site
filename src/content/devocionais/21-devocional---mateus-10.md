@@ -1,4 +1,7 @@
-**DEVOCIONAL 21**
+---
+title: ""
+week: 01
+---
 
 **Nos Tornando Como Nosso Mestre e Professor**
 

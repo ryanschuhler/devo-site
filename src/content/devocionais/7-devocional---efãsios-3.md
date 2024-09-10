@@ -1,4 +1,7 @@
-**DEVOCIONAL 7**
+---
+title: ""
+week: 01
+---
 
 **Conhecer O Amor de Deus**
 

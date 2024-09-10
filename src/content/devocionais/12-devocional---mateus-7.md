@@ -1,4 +1,7 @@
-**DEVOCIONAL 12**
+---
+title: ""
+week: 01
+---
 
 **Building on the Rock Instead of Sand**
 

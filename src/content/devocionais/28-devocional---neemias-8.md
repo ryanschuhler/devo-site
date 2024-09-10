@@ -1,4 +1,7 @@
-**DEVOCIONAL 28**
+---
+title: ""
+week: 01
+---
 
 **A Alegria do Senhor é a Sua Força**
 

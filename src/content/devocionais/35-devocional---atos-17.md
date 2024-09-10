@@ -1,4 +1,7 @@
-**DEVOCIONAL 35**
+---
+title: ""
+week: 01
+---
 
 **Examinando as Escrituras**
 

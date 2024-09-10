@@ -1,4 +1,7 @@
-**DEVOCIONAL 44**
+---
+title: ""
+week: 01
+---
 
 **Amor Acima de Tudo**
 

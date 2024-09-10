@@ -1,4 +1,7 @@
-**DEVOCIONAL 20**
+---
+title: ""
+week: 01
+---
 
 **Proclamando Sua Grandeza à Próxima Geração**
 

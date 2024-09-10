@@ -1,4 +1,7 @@
-**DEVOCIONAL 6**
+---
+title: ""
+week: 01
+---
 
 **O Evangelho: Uma Mensagem Simples e Poderosa**
 

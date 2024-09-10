@@ -1,4 +1,7 @@
-**DEVOCIONAL 51**
+---
+title: ""
+week: 01
+---
 
 **Depositando Nossa Esperança em Deus**
 

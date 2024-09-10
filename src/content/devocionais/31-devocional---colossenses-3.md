@@ -1,4 +1,7 @@
-**DEVOCIONAL 31**
+---
+title: ""
+week: 01
+---
 
 **Deixando a Palavra de Cristo Habitar Ricamente em Você**
 

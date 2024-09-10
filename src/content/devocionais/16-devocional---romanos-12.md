@@ -1,4 +1,7 @@
-**DEVOCIONAL 16**
+---
+title: ""
+week: 01
+---
 
 **Sendo Transformados pela Renovação de Nossas Mentes**
 

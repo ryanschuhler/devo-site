@@ -1,4 +1,7 @@
-**DEVOCIONAL 29**
+---
+title: ""
+week: 01
+---
 
 **Perseverança, Encorajamento, e Esperança**
 

@@ -1,4 +1,7 @@
-**DEVOCIONAL 24**
+---
+title: ""
+week: 01
+---
 
 **Guardando a Sua Palavra em Meu Coração**
 

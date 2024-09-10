@@ -1,4 +1,7 @@
-**DEVOCIONAL 38**
+---
+title: ""
+week: 01
+---
 
 **Uma Geração Contará Tuas Obras à Outra**
 

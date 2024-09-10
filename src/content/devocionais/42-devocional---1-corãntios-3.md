@@ -1,4 +1,7 @@
-**DEVOCIONAL 42**
+---
+title: ""
+week: 01
+---
 
 **Obreiros de Deus**
 

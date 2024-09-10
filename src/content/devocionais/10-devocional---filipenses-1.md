@@ -1,4 +1,7 @@
-**DEVOCIONAL 10**
+---
+title: ""
+week: 01
+---
 
 **Confiança no Trabalha Contínuo de Deus**
 

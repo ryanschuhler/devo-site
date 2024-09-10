@@ -1,4 +1,7 @@
-**DEVOCIONAL 25**
+---
+title: ""
+week: 01
+---
 
 **Conhecimento, Orgulho, e Cuidado com os Outros**
 

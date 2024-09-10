@@ -1,4 +1,7 @@
-**DEVOCIONAL 30**
+---
+title: ""
+week: 01
+---
 
 **Crescendo Através da Imitação**
 

@@ -1,4 +1,7 @@
-**DEVOCIONAL 40**
+---
+title: ""
+week: 01
+---
 
 **O Princípio da Sabedoria**
 

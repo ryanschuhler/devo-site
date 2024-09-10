@@ -1,4 +1,7 @@
-**DEVOCIONAL 11**
+---
+title: ""
+week: 01
+---
 
 **Permanecendo e Dando Muitos Frutos**
 

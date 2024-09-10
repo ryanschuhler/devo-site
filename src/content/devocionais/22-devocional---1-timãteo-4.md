@@ -1,4 +1,7 @@
-**DEVOCIONAL 22**
+---
+title: ""
+week: 01
+---
 
 **Observando a Nós Mesmo e ao Nosso Ensino**
 

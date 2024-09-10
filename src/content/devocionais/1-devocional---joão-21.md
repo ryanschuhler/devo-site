@@ -1,4 +1,7 @@
-**DEVOCIONAL 1**
+---
+title: "Você Me Ama? Apascente Minhas Ovelhas"
+week: 01
+---
 
 **Você Me Ama? Apascente Minhas Ovelhas**
 

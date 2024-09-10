@@ -1,4 +1,7 @@
-**DEVOCIONAL 39**
+---
+title: ""
+week: 01
+---
 
 **Se Tornando Tudo Para Todos A Fim de Ganhar Alguns**
 

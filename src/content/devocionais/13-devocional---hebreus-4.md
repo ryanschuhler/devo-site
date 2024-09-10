@@ -1,4 +1,7 @@
-**DEVOCIONAL 13**
+---
+title: ""
+week: 01
+---
 
 **O Poder da Palavra Viva de Deus**
 

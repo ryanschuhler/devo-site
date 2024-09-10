@@ -1,4 +1,7 @@
-**DEVOCIONAL 32**
+---
+title: ""
+week: 01
+---
 
 **Cumpra o seu Ministério**
 

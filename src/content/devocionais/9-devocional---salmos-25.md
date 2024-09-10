@@ -1,4 +1,7 @@
-**DEVOCIONAL 9**
+---
+title: ""
+week: 01
+---
 
 **Deus Nosso Mestre**
 

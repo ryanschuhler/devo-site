@@ -1,4 +1,7 @@
-**DEVOCIONAL 37**
+---
+title: ""
+week: 01
+---
 
 **Ensinando Aqueles que Podem Ensinar Outros**
 

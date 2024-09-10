@@ -1,4 +1,7 @@
-**DEVOCIONAL 49**
+---
+title: ""
+week: 01
+---
 
 **O Poder das Escrituras**
 

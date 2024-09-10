@@ -1,4 +1,7 @@
-**DEVOCIONAL 8**
+---
+title: ""
+week: 01
+---
 
 **O Alvo de Nosso Ensino**
 

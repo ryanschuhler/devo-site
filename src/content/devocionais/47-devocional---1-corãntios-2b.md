@@ -1,4 +1,7 @@
-**DEVOCIONAL 47**
+---
+title: ""
+week: 01
+---
 
 **Tendo a Mente de Cristo**
 

@@ -1,4 +1,7 @@
-**DEVOCIONAL 14**
+---
+title: ""
+week: 01
+---
 
 **Seja Forte e Corajoso**
 

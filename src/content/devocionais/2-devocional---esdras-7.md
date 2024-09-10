@@ -1,4 +1,7 @@
-**DEVOCIONAL 2**
+---
+title: ""
+week: 01
+---
 
 **Estude, Faça, Ensine**
 

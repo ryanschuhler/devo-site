@@ -1,4 +1,7 @@
-**DEVOCIONAL 27**
+---
+title: ""
+week: 01
+---
 
 **Vá e Faça Discípulos**
 

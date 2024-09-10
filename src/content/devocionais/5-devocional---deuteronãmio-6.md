@@ -1,4 +1,7 @@
-**DEVOCIONAL 5**
+---
+title: ""
+week: 01
+---
 
 **Estas Palavras Estarão em Seu Coração**
 

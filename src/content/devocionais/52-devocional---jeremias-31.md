@@ -1,4 +1,7 @@
-**DEVOCIONAL 52**
+---
+title: ""
+week: 01
+---
 
 **Registrada em Nossos Corações**
 

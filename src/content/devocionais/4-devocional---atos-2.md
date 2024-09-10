@@ -1,4 +1,7 @@
-**DEVOCIONAL 4**
+---
+title: ""
+week: 01
+---
 
 **Aprendendo e Crescendo a Cada Dia**
 
