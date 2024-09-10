@@ -270,12 +270,11 @@ header .language-navigation {
 	margin-bottom: var(--spacing-6);
 }
 
-header .language-navigation li:first-child {
+header .language-navigation li:not(:last-child) {
 	border-right-color: var(--border-color-base);
 	border-right-style: var(--border-style-base);
 	border-right-width: var(--border-width-base);
 }
-
 header .site-navigation {
 	border-bottom-color: var(--border-color-base);
 	border-bottom-style: var(--border-style-base);
@@ -382,10 +381,12 @@ p {
 	margin-top: 0;
 }
 
-.starter-page .two-columns {
+.starter-page .two-columns,
+.starter-page .three-columns {
 	justify-content: center;
 }
 
+.three-columns,
 .two-columns {
 	display: flex;
 	gap: var(--spacing-5);

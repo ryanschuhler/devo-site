@@ -184,7 +184,373 @@ declare module 'astro:content' {
 	>;
 
 	type ContentEntryMap = {
-		"devocionales": {
+		"devocionais": {
+"1-devocional---joão-21.md": {
+	id: "1-devocional---joão-21.md";
+  slug: "1-devocional---joão-21";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"10-devocional---filipenses-1.md": {
+	id: "10-devocional---filipenses-1.md";
+  slug: "10-devocional---filipenses-1";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"11-devocional---joão-15.md": {
+	id: "11-devocional---joão-15.md";
+  slug: "11-devocional---joão-15";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"12-devocional---mateus-7.md": {
+	id: "12-devocional---mateus-7.md";
+  slug: "12-devocional---mateus-7";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"13-devocional---hebreus-4.md": {
+	id: "13-devocional---hebreus-4.md";
+  slug: "13-devocional---hebreus-4";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"14-devocional---josuã-1.md": {
+	id: "14-devocional---josuã-1.md";
+  slug: "14-devocional---josuã-1";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"15-devocional---lucas-8.md": {
+	id: "15-devocional---lucas-8.md";
+  slug: "15-devocional---lucas-8";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"16-devocional---romanos-12.md": {
+	id: "16-devocional---romanos-12.md";
+  slug: "16-devocional---romanos-12";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"17-devocional---efãsios-4a.md": {
+	id: "17-devocional---efãsios-4a.md";
+  slug: "17-devocional---efãsios-4a";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"18-devocional---efãsios-4b.md": {
+	id: "18-devocional---efãsios-4b.md";
+  slug: "18-devocional---efãsios-4b";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"19-devocional---tiago-1.md": {
+	id: "19-devocional---tiago-1.md";
+  slug: "19-devocional---tiago-1";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"2-devocional---esdras-7.md": {
+	id: "2-devocional---esdras-7.md";
+  slug: "2-devocional---esdras-7";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"20-devocional---salmo-71.md": {
+	id: "20-devocional---salmo-71.md";
+  slug: "20-devocional---salmo-71";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"21-devocional---mateus-10.md": {
+	id: "21-devocional---mateus-10.md";
+  slug: "21-devocional---mateus-10";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"22-devocional---1-timãteo-4.md": {
+	id: "22-devocional---1-timãteo-4.md";
+  slug: "22-devocional---1-timãteo-4";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"23-devocional---colossenses-1.md": {
+	id: "23-devocional---colossenses-1.md";
+  slug: "23-devocional---colossenses-1";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"24-devocional---salmo-119.md": {
+	id: "24-devocional---salmo-119.md";
+  slug: "24-devocional---salmo-119";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"25-devocional---1-corãntios-8.md": {
+	id: "25-devocional---1-corãntios-8.md";
+  slug: "25-devocional---1-corãntios-8";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"26-devocional---2-timãteo-1.md": {
+	id: "26-devocional---2-timãteo-1.md";
+  slug: "26-devocional---2-timãteo-1";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"27-devocional---mateus-28.md": {
+	id: "27-devocional---mateus-28.md";
+  slug: "27-devocional---mateus-28";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"28-devocional---neemias-8.md": {
+	id: "28-devocional---neemias-8.md";
+  slug: "28-devocional---neemias-8";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"29-devocional---romanos-15.md": {
+	id: "29-devocional---romanos-15.md";
+  slug: "29-devocional---romanos-15";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"3-devocional---marcos-6.md": {
+	id: "3-devocional---marcos-6.md";
+  slug: "3-devocional---marcos-6";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"30-devocional---1-corãntios-11.md": {
+	id: "30-devocional---1-corãntios-11.md";
+  slug: "30-devocional---1-corãntios-11";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"31-devocional---colossenses-3.md": {
+	id: "31-devocional---colossenses-3.md";
+  slug: "31-devocional---colossenses-3";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"32-devocional---2-timãteo-4.md": {
+	id: "32-devocional---2-timãteo-4.md";
+  slug: "32-devocional---2-timãteo-4";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"33-devocional---salmo-40.md": {
+	id: "33-devocional---salmo-40.md";
+  slug: "33-devocional---salmo-40";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"34-devocional---joão-13.md": {
+	id: "34-devocional---joão-13.md";
+  slug: "34-devocional---joão-13";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"35-devocional---atos-17.md": {
+	id: "35-devocional---atos-17.md";
+  slug: "35-devocional---atos-17";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"36-devocional---tito-2.md": {
+	id: "36-devocional---tito-2.md";
+  slug: "36-devocional---tito-2";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"37-devocional---2-timãteo-2a.md": {
+	id: "37-devocional---2-timãteo-2a.md";
+  slug: "37-devocional---2-timãteo-2a";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"38-devocional---salmo-145.md": {
+	id: "38-devocional---salmo-145.md";
+  slug: "38-devocional---salmo-145";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"39-devocional---1-corãntios-9.md": {
+	id: "39-devocional---1-corãntios-9.md";
+  slug: "39-devocional---1-corãntios-9";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"4-devocional---atos-2.md": {
+	id: "4-devocional---atos-2.md";
+  slug: "4-devocional---atos-2";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"40-devocional---provãrbios-4.md": {
+	id: "40-devocional---provãrbios-4.md";
+  slug: "40-devocional---provãrbios-4";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"41-devocional---romanos-2.md": {
+	id: "41-devocional---romanos-2.md";
+  slug: "41-devocional---romanos-2";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"42-devocional---1-corãntios-3.md": {
+	id: "42-devocional---1-corãntios-3.md";
+  slug: "42-devocional---1-corãntios-3";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"43-devocional---2-timãteo-2b.md": {
+	id: "43-devocional---2-timãteo-2b.md";
+  slug: "43-devocional---2-timãteo-2b";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"44-devocional---1-corãntios-13.md": {
+	id: "44-devocional---1-corãntios-13.md";
+  slug: "44-devocional---1-corãntios-13";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"45-devocional---filipenses-4.md": {
+	id: "45-devocional---filipenses-4.md";
+  slug: "45-devocional---filipenses-4";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"46-devocional---mateus-23.md": {
+	id: "46-devocional---mateus-23.md";
+  slug: "46-devocional---mateus-23";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"47-devocional---1-corãntios-2b.md": {
+	id: "47-devocional---1-corãntios-2b.md";
+  slug: "47-devocional---1-corãntios-2b";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"48-devocional---joão-16.md": {
+	id: "48-devocional---joão-16.md";
+  slug: "48-devocional---joão-16";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"49-devocional---2-timãteo-3.md": {
+	id: "49-devocional---2-timãteo-3.md";
+  slug: "49-devocional---2-timãteo-3";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"5-devocional---deuteronãmio-6.md": {
+	id: "5-devocional---deuteronãmio-6.md";
+  slug: "5-devocional---deuteronãmio-6";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"50-devocional---1-tessalonicensses-2.md": {
+	id: "50-devocional---1-tessalonicensses-2.md";
+  slug: "50-devocional---1-tessalonicensses-2";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"51-devocional---salmo-78.md": {
+	id: "51-devocional---salmo-78.md";
+  slug: "51-devocional---salmo-78";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"52-devocional---jeremias-31.md": {
+	id: "52-devocional---jeremias-31.md";
+  slug: "52-devocional---jeremias-31";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"6-devocional---1-corãntios-2a.md": {
+	id: "6-devocional---1-corãntios-2a.md";
+  slug: "6-devocional---1-corãntios-2a";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"7-devocional---efãsios-3.md": {
+	id: "7-devocional---efãsios-3.md";
+  slug: "7-devocional---efãsios-3";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"8-devocional---1-timãteo-1.md": {
+	id: "8-devocional---1-timãteo-1.md";
+  slug: "8-devocional---1-timãteo-1";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+"9-devocional---salmos-25.md": {
+	id: "9-devocional---salmos-25.md";
+  slug: "9-devocional---salmos-25";
+  body: string;
+  collection: "devocionais";
+  data: InferEntrySchema<"devocionais">
+} & { render(): Render[".md"] };
+};
+"devocionales": {
 "amor-por-encima-de-todo.md": {
 	id: "amor-por-encima-de-todo.md";
   slug: "amor-por-encima-de-todo";
@@ -914,15 +1280,6 @@ declare module 'astro:content' {
   body: string;
   collection: "devotionals";
   data: InferEntrySchema<"devotionals">
-} & { render(): Render[".md"] };
-};
-"tips": {
-"introduction.md": {
-	id: "introduction.md";
-  slug: "introduction";
-  body: string;
-  collection: "tips";
-  data: InferEntrySchema<"tips">
 } & { render(): Render[".md"] };
 };
 

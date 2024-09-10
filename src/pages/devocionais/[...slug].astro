@@ -1,0 +1,19 @@
+---
+import { getCollection } from 'astro:content';
+import Post from '../../layouts/Post.astro';
+
+export async function getStaticPaths() {
+	const devocionais = await getCollection('devocionais');
+	return devocionais.map((devocional) => ({
+		params: { slug: devocional.slug },
+		props: devocional,
+	}));
+}
+
+const devocional = Astro.props;
+const { Content } = await devocional.render();
+---
+
+<Post {...devocional.data} lang="pt">
+	<Content />
+</Post>
