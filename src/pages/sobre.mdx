@@ -1,0 +1,27 @@
+---
+lang: "pt"
+layout: ../layouts/Layout.astro
+title: "Sobre"
+---
+
+import Columns from '../components/Columns.astro';
+import Purchase from '../components/Purchase.astro';
+
+<Columns>
+	<div class="column-one section" slot="column-one">
+		<h4 class="section-title">Sobre</h4>
+		![Bible and Coffee](/reading_small.jpg)
+		<br /> 
+		O site “Alimentando a Alma do Líder de Estudos Bíblicos” foi criado para auxiliar no crescimento espiritual e na vitalidade de quem lidera estudos bíblicos em grupo, independente da faixa etária ou formato. Atualmente, o site oferece uma coleção de 52 devocionais para líderes de estudos bíblicos que qualquer pessoa pode receber semanalmente após se inscrever. Também fornece acesso a esses devocionais, que estão disponíveis no site para exploração individual.
+		Esses devocionais estão disponíveis em inglês e espanhol. Além disso, você pode encontrar a coleção completa desses devocionais em formato brochura e livro Kindle em ambos os idiomas, em amazon.com.
+		Se você achar este conteúdo encorajador, compartilhe o link deste site com outras pessoas que você conhece e que lideram grupos de estudo bíblico. No futuro, também planeamos fornecer gravações de áudio dos devocionais para que as pessoas possam ouvi-los, bem como uma série de pequenos artigos sobre diferentes temas e práticas que podem fortalecer o impacto espiritual dos estudos bíblicos em grupo.
+		Oro para que estes materiais sejam um encorajamento para a sua alma e um apoio no seu ministério de estudo bíblico.
+		
+		Deus abençoe seu ministério,
+
+		Kevin E. Lawson
+	</div>
+	<div class="column-two" slot="column-two">
+		<Purchase frontmatter={frontmatter} />
+	</div>
+</Columns>

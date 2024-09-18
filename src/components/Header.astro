@@ -53,14 +53,14 @@ const currentPath = Astro.url.pathname;
 			<ul>
 				<li><a href={ SITE_DOMAIN + '/home' }>English</a></li>
 				<li><a href={ SITE_DOMAIN_ES + '/inicio' }>Español</a></li>
-				<li><a href={ SITE_DOMAIN_PT + '/inicio-pt' }>Português</a></li>
+				<li><a href={ SITE_DOMAIN_PT + '/página-inicial' }>Português</a></li>
 			</ul>
 		</nav>
 		<nav class="site-navigation">
 			<ul>
-				<li class={currentPath.includes("/inicio-pt") ? "active" : ""}><a href="/inicio-pt">Inicio (PT)</a></li>
+				<li class={currentPath.includes("/página-inicial") ? "active" : ""}><a href="/página-inicial">Página Inicial</a></li>
 				<li class={currentPath.includes("/devocionais") ? "active" : ""}><a href="/devocionais">Devocionais</a></li>
-				<li class={currentPath.includes("/acerca-de-pt") ? "active" : ""}><a href="/acerca-de-pt">Acerca De (PT)</a></li>
+				<li class={currentPath.includes("/sobre") ? "active" : ""}><a href="/sobre">Sobre</a></li>
 			</ul>
 		</nav>
 	</header>

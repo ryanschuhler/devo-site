@@ -185,369 +185,369 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"devocionais": {
-"1-devocional---joão-21.md": {
-	id: "1-devocional---joão-21.md";
-  slug: "1-devocional---joão-21";
+"a-alegria-do-senhor-é-a-sua-força.md": {
+	id: "a-alegria-do-senhor-é-a-sua-força.md";
+  slug: "a-alegria-do-senhor-é-a-sua-força";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"10-devocional---filipenses-1.md": {
-	id: "10-devocional---filipenses-1.md";
-  slug: "10-devocional---filipenses-1";
+"a-marca-do-discipulado.md": {
+	id: "a-marca-do-discipulado.md";
+  slug: "a-marca-do-discipulado";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"11-devocional---joão-15.md": {
-	id: "11-devocional---joão-15.md";
-  slug: "11-devocional---joão-15";
+"amor-acima-de-tudo.md": {
+	id: "amor-acima-de-tudo.md";
+  slug: "amor-acima-de-tudo";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"12-devocional---mateus-7.md": {
-	id: "12-devocional---mateus-7.md";
-  slug: "12-devocional---mateus-7";
+"aprendendo-e-crescendo-a-cada-dia.md": {
+	id: "aprendendo-e-crescendo-a-cada-dia.md";
+  slug: "aprendendo-e-crescendo-a-cada-dia";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"13-devocional---hebreus-4.md": {
-	id: "13-devocional---hebreus-4.md";
-  slug: "13-devocional---hebreus-4";
+"building-on-the-rock-instead-of-sand.md": {
+	id: "building-on-the-rock-instead-of-sand.md";
+  slug: "building-on-the-rock-instead-of-sand";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"14-devocional---josuã-1.md": {
-	id: "14-devocional---josuã-1.md";
-  slug: "14-devocional---josuã-1";
+"como-ovelha-sem-pastor.md": {
+	id: "como-ovelha-sem-pastor.md";
+  slug: "como-ovelha-sem-pastor";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"15-devocional---lucas-8.md": {
-	id: "15-devocional---lucas-8.md";
-  slug: "15-devocional---lucas-8";
+"concentrados-no-bem,-colocando-em-prática-aquilo-que aprendemos.md": {
+	id: "concentrados-no-bem,-colocando-em-prática-aquilo-que aprendemos.md";
+  slug: "concentrados-no-bem-colocando-em-prática-aquilo-que-aprendemos";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"16-devocional---romanos-12.md": {
-	id: "16-devocional---romanos-12.md";
-  slug: "16-devocional---romanos-12";
+"confiança-no-trabalha-contínuo-de-deus.md": {
+	id: "confiança-no-trabalha-contínuo-de-deus.md";
+  slug: "confiança-no-trabalha-contínuo-de-deus";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"17-devocional---efãsios-4a.md": {
-	id: "17-devocional---efãsios-4a.md";
-  slug: "17-devocional---efãsios-4a";
+"conhecer-o-amor-de-deus.md": {
+	id: "conhecer-o-amor-de-deus.md";
+  slug: "conhecer-o-amor-de-deus";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"18-devocional---efãsios-4b.md": {
-	id: "18-devocional---efãsios-4b.md";
-  slug: "18-devocional---efãsios-4b";
+"conhecimento-orgulho-e-cuidado-com-os-outros.md": {
+	id: "conhecimento-orgulho-e-cuidado-com-os-outros.md";
+  slug: "conhecimento-orgulho-e-cuidado-com-os-outros";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"19-devocional---tiago-1.md": {
-	id: "19-devocional---tiago-1.md";
-  slug: "19-devocional---tiago-1";
+"crescendo-através-da-imitação.md": {
+	id: "crescendo-através-da-imitação.md";
+  slug: "crescendo-através-da-imitação";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"2-devocional---esdras-7.md": {
-	id: "2-devocional---esdras-7.md";
-  slug: "2-devocional---esdras-7";
+"crescendo-rumo-à-maturidade-em-cristo.md": {
+	id: "crescendo-rumo-à-maturidade-em-cristo.md";
+  slug: "crescendo-rumo-à-maturidade-em-cristo";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"20-devocional---salmo-71.md": {
-	id: "20-devocional---salmo-71.md";
-  slug: "20-devocional---salmo-71";
+"cumpra-o-seu-ministério.md": {
+	id: "cumpra-o-seu-ministério.md";
+  slug: "cumpra-o-seu-ministério";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"21-devocional---mateus-10.md": {
-	id: "21-devocional---mateus-10.md";
-  slug: "21-devocional---mateus-10";
+"deixando-a-palavra-de-cristo-habitar-ricamente-em-você.md": {
+	id: "deixando-a-palavra-de-cristo-habitar-ricamente-em-você.md";
+  slug: "deixando-a-palavra-de-cristo-habitar-ricamente-em-você";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"22-devocional---1-timãteo-4.md": {
-	id: "22-devocional---1-timãteo-4.md";
-  slug: "22-devocional---1-timãteo-4";
+"depositando-nossa-esperança-em-deus.md": {
+	id: "depositando-nossa-esperança-em-deus.md";
+  slug: "depositando-nossa-esperança-em-deus";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"23-devocional---colossenses-1.md": {
-	id: "23-devocional---colossenses-1.md";
-  slug: "23-devocional---colossenses-1";
+"deus-nosso-mestre.md": {
+	id: "deus-nosso-mestre.md";
+  slug: "deus-nosso-mestre";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"24-devocional---salmo-119.md": {
-	id: "24-devocional---salmo-119.md";
-  slug: "24-devocional---salmo-119";
+"ensinando-a-nós-primeiro.md": {
+	id: "ensinando-a-nós-primeiro.md";
+  slug: "ensinando-a-nós-primeiro";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"25-devocional---1-corãntios-8.md": {
-	id: "25-devocional---1-corãntios-8.md";
-  slug: "25-devocional---1-corãntios-8";
+"ensinando-aqueles-que-podem-ensinar-outros.md": {
+	id: "ensinando-aqueles-que-podem-ensinar-outros.md";
+  slug: "ensinando-aqueles-que-podem-ensinar-outros";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"26-devocional---2-timãteo-1.md": {
-	id: "26-devocional---2-timãteo-1.md";
-  slug: "26-devocional---2-timãteo-1";
+"ensinando-com-paciência-e-mansidão.md": {
+	id: "ensinando-com-paciência-e-mansidão.md";
+  slug: "ensinando-com-paciência-e-mansidão";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"27-devocional---mateus-28.md": {
-	id: "27-devocional---mateus-28.md";
-  slug: "27-devocional---mateus-28";
+"ensinando-como-uma-mãe-e-um-pai.md": {
+	id: "ensinando-como-uma-mãe-e-um-pai.md";
+  slug: "ensinando-como-uma-mãe-e-um-pai";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"28-devocional---neemias-8.md": {
-	id: "28-devocional---neemias-8.md";
-  slug: "28-devocional---neemias-8";
+"estas-palavras-estarão-em-seu-coração.md": {
+	id: "estas-palavras-estarão-em-seu-coração.md";
+  slug: "estas-palavras-estarão-em-seu-coração";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"29-devocional---romanos-15.md": {
-	id: "29-devocional---romanos-15.md";
-  slug: "29-devocional---romanos-15";
+"estude-faça-ensine.md": {
+	id: "estude-faça-ensine.md";
+  slug: "estude-faça-ensine";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"3-devocional---marcos-6.md": {
-	id: "3-devocional---marcos-6.md";
-  slug: "3-devocional---marcos-6";
+"examinando-as-escrituras.md": {
+	id: "examinando-as-escrituras.md";
+  slug: "examinando-as-escrituras";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"30-devocional---1-corãntios-11.md": {
-	id: "30-devocional---1-corãntios-11.md";
-  slug: "30-devocional---1-corãntios-11";
+"guardando-a-sua-palavra-em-meu-coração.md": {
+	id: "guardando-a-sua-palavra-em-meu-coração.md";
+  slug: "guardando-a-sua-palavra-em-meu-coração";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"31-devocional---colossenses-3.md": {
-	id: "31-devocional---colossenses-3.md";
-  slug: "31-devocional---colossenses-3";
+"integridade-no-seu-ensino.md": {
+	id: "integridade-no-seu-ensino.md";
+  slug: "integridade-no-seu-ensino";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"32-devocional---2-timãteo-4.md": {
-	id: "32-devocional---2-timãteo-4.md";
-  slug: "32-devocional---2-timãteo-4";
+"nos-tornando-como-nosso-mestre-e-professor.md": {
+	id: "nos-tornando-como-nosso-mestre-e-professor.md";
+  slug: "nos-tornando-como-nosso-mestre-e-professor";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"33-devocional---salmo-40.md": {
-	id: "33-devocional---salmo-40.md";
-  slug: "33-devocional---salmo-40";
+"nos-tornando-praticantes-da-palavra.md": {
+	id: "nos-tornando-praticantes-da-palavra.md";
+  slug: "nos-tornando-praticantes-da-palavra";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"34-devocional---joão-13.md": {
-	id: "34-devocional---joão-13.md";
-  slug: "34-devocional---joão-13";
+"nosso-único-mestre.md": {
+	id: "nosso-único-mestre.md";
+  slug: "nosso-único-mestre";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"35-devocional---atos-17.md": {
-	id: "35-devocional---atos-17.md";
-  slug: "35-devocional---atos-17";
+"o-alvo-de-nosso-ensino.md": {
+	id: "o-alvo-de-nosso-ensino.md";
+  slug: "o-alvo-de-nosso-ensino";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"36-devocional---tito-2.md": {
-	id: "36-devocional---tito-2.md";
-  slug: "36-devocional---tito-2";
+"o-evangelho-uma-mensagem-simples-e-poderosa.md": {
+	id: "o-evangelho-uma-mensagem-simples-e-poderosa.md";
+  slug: "o-evangelho-uma-mensagem-simples-e-poderosa";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"37-devocional---2-timãteo-2a.md": {
-	id: "37-devocional---2-timãteo-2a.md";
-  slug: "37-devocional---2-timãteo-2a";
+"o-ministério-do-espírito-santo-em-nosso-ensino.md": {
+	id: "o-ministério-do-espírito-santo-em-nosso-ensino.md";
+  slug: "o-ministério-do-espírito-santo-em-nosso-ensino";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"38-devocional---salmo-145.md": {
-	id: "38-devocional---salmo-145.md";
-  slug: "38-devocional---salmo-145";
+"o-poder-da-palavra-viva-de-deus.md": {
+	id: "o-poder-da-palavra-viva-de-deus.md";
+  slug: "o-poder-da-palavra-viva-de-deus";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"39-devocional---1-corãntios-9.md": {
-	id: "39-devocional---1-corãntios-9.md";
-  slug: "39-devocional---1-corãntios-9";
+"o-poder-das-escrituras.md": {
+	id: "o-poder-das-escrituras.md";
+  slug: "o-poder-das-escrituras";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"4-devocional---atos-2.md": {
-	id: "4-devocional---atos-2.md";
-  slug: "4-devocional---atos-2";
+"o-princípio-da-sabedoria.md": {
+	id: "o-princípio-da-sabedoria.md";
+  slug: "o-princípio-da-sabedoria";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"40-devocional---provãrbios-4.md": {
-	id: "40-devocional---provãrbios-4.md";
-  slug: "40-devocional---provãrbios-4";
+"obreiros-de-deus.md": {
+	id: "obreiros-de-deus.md";
+  slug: "obreiros-de-deus";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"41-devocional---romanos-2.md": {
-	id: "41-devocional---romanos-2.md";
-  slug: "41-devocional---romanos-2";
+"observando-a-nós-mesmo-e-ao-nosso-ensino.md": {
+	id: "observando-a-nós-mesmo-e-ao-nosso-ensino.md";
+  slug: "observando-a-nós-mesmo-e-ao-nosso-ensino";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"42-devocional---1-corãntios-3.md": {
-	id: "42-devocional---1-corãntios-3.md";
-  slug: "42-devocional---1-corãntios-3";
+"permanecendo-e-dando-muitos-frutos.md": {
+	id: "permanecendo-e-dando-muitos-frutos.md";
+  slug: "permanecendo-e-dando-muitos-frutos";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"43-devocional---2-timãteo-2b.md": {
-	id: "43-devocional---2-timãteo-2b.md";
-  slug: "43-devocional---2-timãteo-2b";
+"perseverança-encorajamento-e-esperança.md": {
+	id: "perseverança-encorajamento-e-esperança.md";
+  slug: "perseverança-encorajamento-e-esperança";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"44-devocional---1-corãntios-13.md": {
-	id: "44-devocional---1-corãntios-13.md";
-  slug: "44-devocional---1-corãntios-13";
+"preparando-os-santos-edificando-o-corpo.md": {
+	id: "preparando-os-santos-edificando-o-corpo.md";
+  slug: "preparando-os-santos-edificando-o-corpo";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"45-devocional---filipenses-4.md": {
-	id: "45-devocional---filipenses-4.md";
-  slug: "45-devocional---filipenses-4";
+"proclamando-sua-grandeza-à-próxima-geração.md": {
+	id: "proclamando-sua-grandeza-à-próxima-geração.md";
+  slug: "proclamando-sua-grandeza-à-próxima-geração";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"46-devocional---mateus-23.md": {
-	id: "46-devocional---mateus-23.md";
-  slug: "46-devocional---mateus-23";
+"registrada-em-nossos-corações.md": {
+	id: "registrada-em-nossos-corações.md";
+  slug: "registrada-em-nossos-corações";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"47-devocional---1-corãntios-2b.md": {
-	id: "47-devocional---1-corãntios-2b.md";
-  slug: "47-devocional---1-corãntios-2b";
+"se-despir-ser-renovado-se-revestir.md": {
+	id: "se-despir-ser-renovado-se-revestir.md";
+  slug: "se-despir-ser-renovado-se-revestir";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"48-devocional---joão-16.md": {
-	id: "48-devocional---joão-16.md";
-  slug: "48-devocional---joão-16";
+"se-tornando-tudo-para-todos-a-fim-de-ganhar-alguns.md": {
+	id: "se-tornando-tudo-para-todos-a-fim-de-ganhar-alguns.md";
+  slug: "se-tornando-tudo-para-todos-a-fim-de-ganhar-alguns";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"49-devocional---2-timãteo-3.md": {
-	id: "49-devocional---2-timãteo-3.md";
-  slug: "49-devocional---2-timãteo-3";
+"seguindo-o-padrão-das-sãs-palavras.md": {
+	id: "seguindo-o-padrão-das-sãs-palavras.md";
+  slug: "seguindo-o-padrão-das-sãs-palavras";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"5-devocional---deuteronãmio-6.md": {
-	id: "5-devocional---deuteronãmio-6.md";
-  slug: "5-devocional---deuteronãmio-6";
+"seja-forte-e-corajoso.md": {
+	id: "seja-forte-e-corajoso.md";
+  slug: "seja-forte-e-corajoso";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"50-devocional---1-tessalonicensses-2.md": {
-	id: "50-devocional---1-tessalonicensses-2.md";
-  slug: "50-devocional---1-tessalonicensses-2";
+"sementes-e-solos.md": {
+	id: "sementes-e-solos.md";
+  slug: "sementes-e-solos";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"51-devocional---salmo-78.md": {
-	id: "51-devocional---salmo-78.md";
-  slug: "51-devocional---salmo-78";
+"sendo-transformados-pela-renovação-de-nossas-mentes.md": {
+	id: "sendo-transformados-pela-renovação-de-nossas-mentes.md";
+  slug: "sendo-transformados-pela-renovação-de-nossas-mentes";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"52-devocional---jeremias-31.md": {
-	id: "52-devocional---jeremias-31.md";
-  slug: "52-devocional---jeremias-31";
+"sua-lei-está-em-meu-coração.md": {
+	id: "sua-lei-está-em-meu-coração.md";
+  slug: "sua-lei-está-em-meu-coração";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"6-devocional---1-corãntios-2a.md": {
-	id: "6-devocional---1-corãntios-2a.md";
-  slug: "6-devocional---1-corãntios-2a";
+"tendo-a-mente-de-cristo.md": {
+	id: "tendo-a-mente-de-cristo.md";
+  slug: "tendo-a-mente-de-cristo";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"7-devocional---efãsios-3.md": {
-	id: "7-devocional---efãsios-3.md";
-  slug: "7-devocional---efãsios-3";
+"uma-geração-contará-tuas-obras-à-outra.md": {
+	id: "uma-geração-contará-tuas-obras-à-outra.md";
+  slug: "uma-geração-contará-tuas-obras-à-outra";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"8-devocional---1-timãteo-1.md": {
-	id: "8-devocional---1-timãteo-1.md";
-  slug: "8-devocional---1-timãteo-1";
+"você-me-ama-apascente-minhas-ovelhas.md": {
+	id: "você-me-ama-apascente-minhas-ovelhas.md";
+  slug: "você-me-ama-apascente-minhas-ovelhas";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
-"9-devocional---salmos-25.md": {
-	id: "9-devocional---salmos-25.md";
-  slug: "9-devocional---salmos-25";
+"vá-e-faça-discípulos.md": {
+	id: "vá-e-faça-discípulos.md";
+  slug: "vá-e-faça-discípulos";
   body: string;
   collection: "devocionais";
-  data: InferEntrySchema<"devocionais">
+  data: any
 } & { render(): Render[".md"] };
 };
 "devocionales": {
@@ -556,364 +556,364 @@ declare module 'astro:content' {
   slug: "amor-por-encima-de-todo";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "aprender-y-crecer-día-a-día.md": {
 	id: "aprender-y-crecer-día-a-día.md";
   slug: "aprender-y-crecer-día-a-día";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "centrarse-en-lo-bueno-y-practicar-lo-aprendido.md": {
 	id: "centrarse-en-lo-bueno-y-practicar-lo-aprendido.md";
   slug: "centrarse-en-lo-bueno-y-practicar-lo-aprendido";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "como-ovejas-sin-pastor.md": {
 	id: "como-ovejas-sin-pastor.md";
   slug: "como-ovejas-sin-pastor";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "confianza-en-la-obra-de-dios.md": {
 	id: "confianza-en-la-obra-de-dios.md";
   slug: "confianza-en-la-obra-de-dios";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "conocer-el-amor-de-dios.md": {
 	id: "conocer-el-amor-de-dios.md";
   slug: "conocer-el-amor-de-dios";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "conocimiento-orgullo-y-preocupación-por-los-demás.md": {
 	id: "conocimiento-orgullo-y-preocupación-por-los-demás.md";
   slug: "conocimiento-orgullo-y-preocupación-por-los-demás";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "construir-sobre-la-roca-en-vez-de-sobre-la-arena.md": {
 	id: "construir-sobre-la-roca-en-vez-de-sobre-la-arena.md";
   slug: "construir-sobre-la-roca-en-vez-de-sobre-la-arena";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "convertirse-en-hacedores-de-la-palabra.md": {
 	id: "convertirse-en-hacedores-de-la-palabra.md";
   slug: "convertirse-en-hacedores-de-la-palabra";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "crecer-a-través-de-la-imitación.md": {
 	id: "crecer-a-través-de-la-imitación.md";
   slug: "crecer-a-través-de-la-imitación";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "crecer-en-la-madurez-en-cristo.md": {
 	id: "crecer-en-la-madurez-en-cristo.md";
   slug: "crecer-en-la-madurez-en-cristo";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "cuidar-de-nosotros-mismos-y-de-nuestra-enseñanza.md": {
 	id: "cuidar-de-nosotros-mismos-y-de-nuestra-enseñanza.md";
   slug: "cuidar-de-nosotros-mismos-y-de-nuestra-enseñanza";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "cumple-con-tu-ministerio.md": {
 	id: "cumple-con-tu-ministerio.md";
   slug: "cumple-con-tu-ministerio";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "despojarse-renovarse-vestirse.md": {
 	id: "despojarse-renovarse-vestirse.md";
   slug: "despojarse-renovarse-vestirse";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "dios-nuestro-maestro.md": {
 	id: "dios-nuestro-maestro.md";
   slug: "dios-nuestro-maestro";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "el-evangelio-un-mensaje-sencillo-y-poderoso.md": {
 	id: "el-evangelio-un-mensaje-sencillo-y-poderoso.md";
   slug: "el-evangelio-un-mensaje-sencillo-y-poderoso";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "el-gozo-de-jehová-es-vuestra-fuerza.md": {
 	id: "el-gozo-de-jehová-es-vuestra-fuerza.md";
   slug: "el-gozo-de-jehová-es-vuestra-fuerza";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "el-ministerio-del-espíritu-santo-en-nuestra-enseñanza.md": {
 	id: "el-ministerio-del-espíritu-santo-en-nuestra-enseñanza.md";
   slug: "el-ministerio-del-espíritu-santo-en-nuestra-enseñanza";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "el-objetivo-de-nuestra-enseñanza.md": {
 	id: "el-objetivo-de-nuestra-enseñanza.md";
   slug: "el-objetivo-de-nuestra-enseñanza";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "el-poder-de-la-escritura.md": {
 	id: "el-poder-de-la-escritura.md";
   slug: "el-poder-de-la-escritura";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "el-poder-de-la-palabra-viva-de-dios.md": {
 	id: "el-poder-de-la-palabra-viva-de-dios.md";
   slug: "el-poder-de-la-palabra-viva-de-dios";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "el-principio-de-la-sabiduría.md": {
 	id: "el-principio-de-la-sabiduría.md";
   slug: "el-principio-de-la-sabiduría";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "enseñar-a-quienes-pueden-enseñar-a-otros.md": {
 	id: "enseñar-a-quienes-pueden-enseñar-a-otros.md";
   slug: "enseñar-a-quienes-pueden-enseñar-a-otros";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "enseñar-como-una-madre-y-un-padre.md": {
 	id: "enseñar-como-una-madre-y-un-padre.md";
   slug: "enseñar-como-una-madre-y-un-padre";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "enseñar-con-paciencia-y-dulzura.md": {
 	id: "enseñar-con-paciencia-y-dulzura.md";
   slug: "enseñar-con-paciencia-y-dulzura";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "enseñarnos-primero-a-nosotros-mismos.md": {
 	id: "enseñarnos-primero-a-nosotros-mismos.md";
   slug: "enseñarnos-primero-a-nosotros-mismos";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "esfuérzate-y-sé-valiente.md": {
 	id: "esfuérzate-y-sé-valiente.md";
   slug: "esfuérzate-y-sé-valiente";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "estas-palabras-estarán-sobre-tu-corazón.md": {
 	id: "estas-palabras-estarán-sobre-tu-corazón.md";
   slug: "estas-palabras-estarán-sobre-tu-corazón";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "estúdiala-cúmplela-enséñala.md": {
 	id: "estúdiala-cúmplela-enséñala.md";
   slug: "estúdiala-cúmplela-enséñala";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "examinar-las-escrituras.md": {
 	id: "examinar-las-escrituras.md";
   slug: "examinar-las-escrituras";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "generación-a-generación-celebrará-tus-obras.md": {
 	id: "generación-a-generación-celebrará-tus-obras.md";
   slug: "generación-a-generación-celebrará-tus-obras";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "guardando-tu-palabra-en-mi-corazón.md": {
 	id: "guardando-tu-palabra-en-mi-corazón.md";
   slug: "guardando-tu-palabra-en-mi-corazón";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "id-y-haced-discípulos.md": {
 	id: "id-y-haced-discípulos.md";
   slug: "id-y-haced-discípulos";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "la-ley-de-dios-escrita-en-nuestros-corazones.md": {
 	id: "la-ley-de-dios-escrita-en-nuestros-corazones.md";
   slug: "la-ley-de-dios-escrita-en-nuestros-corazones";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "la-marca-del-discipulado.md": {
 	id: "la-marca-del-discipulado.md";
   slug: "la-marca-del-discipulado";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "llegar-a-ser-como-nuestro-señor-y-maestro.md": {
 	id: "llegar-a-ser-como-nuestro-señor-y-maestro.md";
   slug: "llegar-a-ser-como-nuestro-señor-y-maestro";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "los-colaboradoores-de-dios.md": {
 	id: "los-colaboradoores-de-dios.md";
   slug: "los-colaboradoores-de-dios";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "me-amas-apacienta-mis-corderos.md": {
 	id: "me-amas-apacienta-mis-corderos.md";
   slug: "me-amas-apacienta-mis-corderos";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "me-he-hecho-de-todo-para-que-de-todos-modos-salve-a-algunos.md": {
 	id: "me-he-hecho-de-todo-para-que-de-todos-modos-salve-a-algunos.md";
   slug: "me-he-hecho-de-todo-para-que-de-todos-modos-salve-a-algunos";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "muestra-integridad-en-tu-enseñanza.md": {
 	id: "muestra-integridad-en-tu-enseñanza.md";
   slug: "muestra-integridad-en-tu-enseñanza";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "nuestro-único-maestro.md": {
 	id: "nuestro-único-maestro.md";
   slug: "nuestro-único-maestro";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "paciencia-consolación-y-esperanza.md": {
 	id: "paciencia-consolación-y-esperanza.md";
   slug: "paciencia-consolación-y-esperanza";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "perfeccionar-a-los-santos-edificar-el-cuerpo.md": {
 	id: "perfeccionar-a-los-santos-edificar-el-cuerpo.md";
   slug: "perfeccionar-a-los-santos-edificar-el-cuerpo";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "permanecer-y-dar-mucho-fruto.md": {
 	id: "permanecer-y-dar-mucho-fruto.md";
   slug: "permanecer-y-dar-mucho-fruto";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "poner-nuestra-confianza-en-dios.md": {
 	id: "poner-nuestra-confianza-en-dios.md";
   slug: "poner-nuestra-confianza-en-dios";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "proclamar-tu-poder-a-otra-generación.md": {
 	id: "proclamar-tu-poder-a-otra-generación.md";
   slug: "proclamar-tu-poder-a-otra-generación";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "que-la-palabra-de-cristo-more-en-abundancia-en-ti.md": {
 	id: "que-la-palabra-de-cristo-more-en-abundancia-en-ti.md";
   slug: "que-la-palabra-de-cristo-more-en-abundancia-en-ti";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "retén-la-forma-de-las-sanas-palabras.md": {
 	id: "retén-la-forma-de-las-sanas-palabras.md";
   slug: "retén-la-forma-de-las-sanas-palabras";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "semillas-y-suelos.md": {
 	id: "semillas-y-suelos.md";
   slug: "semillas-y-suelos";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "tener-la-mente-de-cristo.md": {
 	id: "tener-la-mente-de-cristo.md";
   slug: "tener-la-mente-de-cristo";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "transformados-por-la-renovación-de-nuestras-mentes.md": {
 	id: "transformados-por-la-renovación-de-nuestras-mentes.md";
   slug: "transformados-por-la-renovación-de-nuestras-mentes";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 "tu-ley-está-en-medio-de-mi-corazón.md": {
 	id: "tu-ley-está-en-medio-de-mi-corazón.md";
   slug: "tu-ley-está-en-medio-de-mi-corazón";
   body: string;
   collection: "devocionales";
-  data: InferEntrySchema<"devocionales">
+  data: any
 } & { render(): Render[".md"] };
 };
 "devotionals": {
@@ -922,364 +922,364 @@ declare module 'astro:content' {
   slug: "abiding-and-bearing-much-fruit";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "be-strong-and-courageous.md": {
 	id: "be-strong-and-courageous.md";
   slug: "be-strong-and-courageous";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "becoming-all-things-to-all-people-to-win-some.md": {
 	id: "becoming-all-things-to-all-people-to-win-some.md";
   slug: "becoming-all-things-to-all-people-to-win-some";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "becoming-doers-of-the-word.md": {
 	id: "becoming-doers-of-the-word.md";
   slug: "becoming-doers-of-the-word";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "becoming-like-our-master-and-teacher.md": {
 	id: "becoming-like-our-master-and-teacher.md";
   slug: "becoming-like-our-master-and-teacher";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "being-transformed-by-the-renewal-of-our-minds.md": {
 	id: "being-transformed-by-the-renewal-of-our-minds.md";
   slug: "being-transformed-by-the-renewal-of-our-minds";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "building-on-the-rock-instead-of-sand.md": {
 	id: "building-on-the-rock-instead-of-sand.md";
   slug: "building-on-the-rock-instead-of-sand";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "confidence-in-gods-ongoing-work.md": {
 	id: "confidence-in-gods-ongoing-work.md";
   slug: "confidence-in-gods-ongoing-work";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "do-you-love-me-feed-my-lambs.md": {
 	id: "do-you-love-me-feed-my-lambs.md";
   slug: "do-you-love-me-feed-my-lambs";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "endurance-encouragement-and-hope.md": {
 	id: "endurance-encouragement-and-hope.md";
   slug: "endurance-encouragement-and-hope";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "equipping-the-saints-building-up-the-body.md": {
 	id: "equipping-the-saints-building-up-the-body.md";
   slug: "equipping-the-saints-building-up-the-body";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "examining-the-scriptures.md": {
 	id: "examining-the-scriptures.md";
   slug: "examining-the-scriptures";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "focusing-on-the-good-practicing-what-we-learn.md": {
 	id: "focusing-on-the-good-practicing-what-we-learn.md";
   slug: "focusing-on-the-good-practicing-what-we-learn";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "following-the-pattern-of-sound-words.md": {
 	id: "following-the-pattern-of-sound-words.md";
   slug: "following-the-pattern-of-sound-words";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "fulfilling-your-ministry.md": {
 	id: "fulfilling-your-ministry.md";
   slug: "fulfilling-your-ministry";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "go-and-make-disciples.md": {
 	id: "go-and-make-disciples.md";
   slug: "go-and-make-disciples";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "god-our-teacher.md": {
 	id: "god-our-teacher.md";
   slug: "god-our-teacher";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "gods-fellow-workers.md": {
 	id: "gods-fellow-workers.md";
   slug: "gods-fellow-workers";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "growing-through-imitation.md": {
 	id: "growing-through-imitation.md";
   slug: "growing-through-imitation";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "growing-toward-maturity-in-christ.md": {
 	id: "growing-toward-maturity-in-christ.md";
   slug: "growing-toward-maturity-in-christ";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "having-the-mind-of-christ.md": {
 	id: "having-the-mind-of-christ.md";
   slug: "having-the-mind-of-christ";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "integrity-in-your-teaching.md": {
 	id: "integrity-in-your-teaching.md";
   slug: "integrity-in-your-teaching";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "knowledge-pride-and-care-for-others.md": {
 	id: "knowledge-pride-and-care-for-others.md";
   slug: "knowledge-pride-and-care-for-others";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "learning-and-growing-day-by-day.md": {
 	id: "learning-and-growing-day-by-day.md";
   slug: "learning-and-growing-day-by-day";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "letting-the-word-of-christ-dwell-in-you-richly.md": {
 	id: "letting-the-word-of-christ-dwell-in-you-richly.md";
   slug: "letting-the-word-of-christ-dwell-in-you-richly";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "like-sheep-without-a-shepherd.md": {
 	id: "like-sheep-without-a-shepherd.md";
   slug: "like-sheep-without-a-shepherd";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "love-above-all.md": {
 	id: "love-above-all.md";
   slug: "love-above-all";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "of-seeds-and-soils.md": {
 	id: "of-seeds-and-soils.md";
   slug: "of-seeds-and-soils";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "one-generation-shall-commend-your-works-to-another.md": {
 	id: "one-generation-shall-commend-your-works-to-another.md";
   slug: "one-generation-shall-commend-your-works-to-another";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "our-one-teacher.md": {
 	id: "our-one-teacher.md";
   slug: "our-one-teacher";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "proclaiming-your-might-to-another-generation.md": {
 	id: "proclaiming-your-might-to-another-generation.md";
   slug: "proclaiming-your-might-to-another-generation";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "putting-off-being-renewed-putting-on.md": {
 	id: "putting-off-being-renewed-putting-on.md";
   slug: "putting-off-being-renewed-putting-on";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "setting-our-hope-in-god.md": {
 	id: "setting-our-hope-in-god.md";
   slug: "setting-our-hope-in-god";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "storing-up-your-word-in-my-heart.md": {
 	id: "storing-up-your-word-in-my-heart.md";
   slug: "storing-up-your-word-in-my-heart";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "study-it-do-it-teach-it.md": {
 	id: "study-it-do-it-teach-it.md";
   slug: "study-it-do-it-teach-it";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "teaching-like-a-mother-and-a-father.md": {
 	id: "teaching-like-a-mother-and-a-father.md";
   slug: "teaching-like-a-mother-and-a-father";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "teaching-ourselves-first.md": {
 	id: "teaching-ourselves-first.md";
   slug: "teaching-ourselves-first";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "teaching-those-who-can-teach-others.md": {
 	id: "teaching-those-who-can-teach-others.md";
   slug: "teaching-those-who-can-teach-others";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "teaching-with-patience-and-gentleness.md": {
 	id: "teaching-with-patience-and-gentleness.md";
   slug: "teaching-with-patience-and-gentleness";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "the-beginning-of-wisdom.md": {
 	id: "the-beginning-of-wisdom.md";
   slug: "the-beginning-of-wisdom";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "the-goal-of-our-teaching.md": {
 	id: "the-goal-of-our-teaching.md";
   slug: "the-goal-of-our-teaching";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "the-gospel-a-simple-powerful-message.md": {
 	id: "the-gospel-a-simple-powerful-message.md";
   slug: "the-gospel-a-simple-powerful-message";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "the-joy-of-the-lord-is-your-strength.md": {
 	id: "the-joy-of-the-lord-is-your-strength.md";
   slug: "the-joy-of-the-lord-is-your-strength";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "the-mark-of-discipleship.md": {
 	id: "the-mark-of-discipleship.md";
   slug: "the-mark-of-discipleship";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "the-ministry-of-the-holy-spirit-in-our-teaching.md": {
 	id: "the-ministry-of-the-holy-spirit-in-our-teaching.md";
   slug: "the-ministry-of-the-holy-spirit-in-our-teaching";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "the-power-of-the-living-word-of-god.md": {
 	id: "the-power-of-the-living-word-of-god.md";
   slug: "the-power-of-the-living-word-of-god";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "the-power-of-the-scripture.md": {
 	id: "the-power-of-the-scripture.md";
   slug: "the-power-of-the-scripture";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "these-words-shall-be-on-your-heart.md": {
 	id: "these-words-shall-be-on-your-heart.md";
   slug: "these-words-shall-be-on-your-heart";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "to-know-the-love-of-god.md": {
 	id: "to-know-the-love-of-god.md";
   slug: "to-know-the-love-of-god";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "watching-both-ourselves-and-our-teaching.md": {
 	id: "watching-both-ourselves-and-our-teaching.md";
   slug: "watching-both-ourselves-and-our-teaching";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "written-on-our-hearts.md": {
 	id: "written-on-our-hearts.md";
   slug: "written-on-our-hearts";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 "your-law-is-within-my-heart.md": {
 	id: "your-law-is-within-my-heart.md";
   slug: "your-law-is-within-my-heart";
   body: string;
   collection: "devotionals";
-  data: InferEntrySchema<"devotionals">
+  data: any
 } & { render(): Render[".md"] };
 };
 
@@ -1291,5 +1291,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	type ContentConfig = typeof import("../src/content/config");
+	type ContentConfig = never;
 }
