@@ -2,23 +2,25 @@
 const { frontmatter } = Astro.props;
 ---
 
-{frontmatter.lang == "en" &&
-<div class="section">
-  <h4 class="section-title">Purchase the Book</h4>
-  <a class="btn" href="https://www.amazon.com/Feeding-Soul-Bible-Study-Leader/dp/B0CHVZLBH7/ref=sr_1_1?crid=1E8FXPHN8M68W&amp;keywords=feeding+the+soul+of+the+bible+study+leader&amp;qid=1701736434&amp;s=books&amp;sprefix=feeding+the+soul+of+the+bible+study+leader%2Cstripbooks%2C135&amp;sr=1-1" target="_blank">Buy Now</a>
-</div>
-}
+<section class="section purchase-section">
+  <h4 class="section-title">{frontmatter.lang === 'en' ? 'Purchase the Book' : frontmatter.lang === 'es' ? 'Comprar el libro' : 'Adquira o livro'}</h4>
+  <a class="btn purchase-btn" href={
+    frontmatter.lang === 'en' 
+      ? "https://www.amazon.com/Feeding-Soul-Bible-Study-Leader/dp/B0CHVZLBH7/ref=sr_1_1?crid=1E8FXPHN8M68W&keywords=feeding+the+soul+of+the+bible+study+leader&qid=1701736434&s=books&sprefix=feeding+the+soul+of+the+bible+study+leader%2Cstripbooks%2C135&sr=1-1"
+      : frontmatter.lang === 'es'
+      ? "https://www.amazon.com/Alimentando-Alma-Líder-Estudios-Bíblicos/dp/B0CK3QDGRJ/ref=sr_1_1?crid=YLKWGA87CF2M&keywords=ALIMENTANDO+EL+ALMA+DEL+LÍDER+DE+ESTUDIOS+BÍBLICOS&qid=1701736538&s=books&sprefix=alimentando+el+alma+del+líder+de+estudios+bíblicos%2Cstripbooks%2C1073&sr=1-1"
+      : "https://www.amazon.com/Alimentando-Alma-L%C3%ADder-Estudo-B%C3%ADblico/dp/B0DFVFRH2R"
+  } target="_blank">
+    {frontmatter.lang === 'en' ? 'Buy Now' : frontmatter.lang === 'es' ? 'Comprar Ahora' : 'Compre Agora'}
+  </a>
+</section>
 
-{frontmatter.lang == "es" &&
-<div class="section">
-  <h4 class="section-title">Comprar el libro</h4>
-  <a class="btn" href="https://www.amazon.com/Alimentando-Alma-Líder-Estudios-Bíblicos/dp/B0CK3QDGRJ/ref=sr_1_1?crid=YLKWGA87CF2M&amp;keywords=ALIMENTANDO+EL+ALMA+DEL+LÍDER+DE+ESTUDIOS+BÍBLICOS&amp;qid=1701736538&amp;s=books&amp;sprefix=alimentando+el+alma+del+líder+de+estudios+bíblicos%2Cstripbooks%2C1073&amp;sr=1-1" target="_blank">Comprar Ahora</a>
-</div>
-}
-
-{frontmatter.lang == "pt" &&
-<div class="section">
-  <h4 class="section-title">Adquira o livro</h4>
-  <a class="btn" href="https://www.amazon.com/Alimentando-Alma-L%C3%ADder-Estudo-B%C3%ADblico/dp/B0DFVFRH2R" target="_blank">Compre Agora</a>
-</div>
-}
+<style>
+  .purchase-section {
+    padding: var(--spacing-4);
+  }
+  .purchase-btn {
+    width: 100%;
+    box-sizing: border-box;
+  }
+</style>

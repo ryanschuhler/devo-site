@@ -14,7 +14,7 @@ devotionals.sort((a, b) => a.data.week -  b.data.week);
 			{
 				devotionals.map((devotional) => (
 					<li>
-						<a class="section" href={`/devotionals/${devotional.slug}/`}>
+						<a href={`/devotionals/${devotional.slug}/`}>
 							<h3 class="title">{devotional.data.title}</h3>
 							{devotional.data.week ? <span>Week {devotional.data.week}</span>: ""}
 						</a>
