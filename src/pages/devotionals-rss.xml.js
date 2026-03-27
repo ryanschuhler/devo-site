@@ -3,6 +3,8 @@ import { getCollection } from 'astro:content';
 import { getDateOfWeek } from '../util';
 import { SITE_TITLE, SITE_DOMAIN } from '../const';
 
+export const prerender = false;
+
 export async function GET(context) {
   const devotionals = await getCollection('devotionals');
   devotionals.sort((a, b) => a.data.week -  b.data.week);
