@@ -1,4 +1,4 @@
-export function getDateOfWeek(w) {
+export function getDateOfWeek(w: number) {
     const d = (1 + (w - 1) * 7);
     const y = new Date().getFullYear();
 
