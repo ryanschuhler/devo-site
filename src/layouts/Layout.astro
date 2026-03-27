@@ -13,10 +13,10 @@ const { frontmatter } = Astro.props;
 	</head>
 
 	<body>
-		<Header frontmatter={frontmatter}/>
+		{!frontmatter.hideNav && <Header frontmatter={frontmatter}/>}
 		<main>
 			<slot />
 		</main>
-		<Footer frontmatter={frontmatter}/>
+		{!frontmatter.hideNav && <Footer frontmatter={frontmatter}/>}
 	</body>
 </html>

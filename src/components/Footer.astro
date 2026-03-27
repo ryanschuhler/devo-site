@@ -1,28 +1,15 @@
 ---
+import { useTranslations } from '../i18n/utils';
+import { domains } from '../i18n/ui';
 const { frontmatter } = Astro.props;
 const today = new Date();
+const lang = (frontmatter.lang || 'en') as 'en' | 'es' | 'pt';
+const t = useTranslations(lang);
+const domain = domains[lang];
 ---
 
-{frontmatter.lang == "en" &&
-	<footer class="site-footer">
-		<section class="site-info">
-			&copy; {today.getFullYear()} biblestudyleader.com. All rights reserved.
-		</section>
-	</footer>
-}
-
-{frontmatter.lang == "es" &&
-	<footer class="site-footer">
-		<section class="site-info">
-			&copy; {today.getFullYear()} liderdeestudiobiblico.com. Todos los derechos reservados.
-		</section>
-	</footer>
-}
-
-{frontmatter.lang == "pt" &&
-	<footer class="site-footer">
-		<section class="site-info">
-			&copy; {today.getFullYear()} líderdeestudosbíblicos.com. Todos os direitos reservados.
-		</section>
-	</footer>
-}
+<footer class="site-footer">
+	<section class="site-info">
+		&copy; {today.getFullYear()} {domain}. {t('footer.rights')}
+	</section>
+</footer>

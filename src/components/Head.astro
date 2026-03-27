@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { SITE_DOMAIN, SITE_DOMAIN_ES, SITE_DOMAIN_PT } from '../const';
 
 const { frontmatter } = Astro.props;
 const { url } = Astro;
@@ -10,6 +11,11 @@ const { url } = Astro;
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <meta name="generator" content={Astro.generator} />
+
+<!-- Language Alternatives -->
+<link rel="alternate" hreflang="en" href={SITE_DOMAIN + "/home"} />
+<link rel="alternate" hreflang="es" href={SITE_DOMAIN_ES + "/inicio"} />
+<link rel="alternate" hreflang="pt" href={SITE_DOMAIN_PT + "/página-inicial"} />
 
 <!-- Primary Meta Tags -->
 <title>{frontmatter.title}</title>

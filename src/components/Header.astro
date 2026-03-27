@@ -1,67 +1,35 @@
 ---
 import { SITE_DOMAIN, SITE_DOMAIN_ES, SITE_DOMAIN_PT, SITE_TITLE, SITE_TITLE_ES, SITE_TITLE_PT } from '../const';
+import { useTranslations } from '../i18n/utils';
 
 const { frontmatter } = Astro.props;
 const currentPath = Astro.url.pathname;
+const lang = (frontmatter.lang || 'en') as 'en' | 'es' | 'pt';
+const t = useTranslations(lang);
+
+let siteTitle = SITE_TITLE;
+if (lang === 'es') siteTitle = SITE_TITLE_ES;
+if (lang === 'pt') siteTitle = SITE_TITLE_PT;
+
+const homePath = lang === 'en' ? '/home' : lang === 'es' ? '/inicio' : '/página-inicial';
+const devotionalsPath = lang === 'en' ? '/devotionals' : lang === 'es' ? '/devocionales' : '/devocionais';
+const aboutPath = lang === 'en' ? '/about' : lang === 'es' ? '/acerca-de' : '/sobre';
 ---
 
-
-{frontmatter.lang == "en" &&
-	<header class="site-header">
-		<h2 class="site-title"><a href="/" rel="home">{SITE_TITLE}</a></h2>
-		<nav class="language-navigation">
-			<ul>
-				<li><a href={ SITE_DOMAIN + '/home' }>English</a></li>
-				<li><a href={ SITE_DOMAIN_ES + '/inicio' }>Español</a></li>
-				<li><a href={ SITE_DOMAIN_PT + '/página-inicial' }>Português</a></li>
-			</ul>
-		</nav>
-		<nav class="site-navigation">
-			<ul>
-				<li class={currentPath.includes("/home") ? "active" : ""}><a href="/home">Home</a></li>
-				<li class={currentPath.includes("/devotionals") ? "active" : ""}><a href="/devotionals">Devotionals</a></li>
-				<li class={currentPath.includes("/about") ? "active" : ""}><a href="/about">About</a></li>
-			</ul>
-		</nav>
-	</header>
-}
-
-{frontmatter.lang == "es" &&
-	<header class="site-header">
-		<h2 class="site-title"><a href="/" rel="home">{SITE_TITLE_ES}</a></h2>
-		<nav class="language-navigation">
-			<ul>
-				<li><a href={ SITE_DOMAIN + '/home' }>English</a></li>
-				<li><a href={ SITE_DOMAIN_ES + '/inicio' }>Español</a></li>
-				<li><a href={ SITE_DOMAIN_PT + '/página-inicial' }>Português</a></li>
-			</ul>
-		</nav>
-		<nav class="site-navigation">
-			<ul>
-				<li class={currentPath.includes("/inicio") ? "active" : ""}><a href="/inicio">Inicio</a></li>
-				<li class={currentPath.includes("/devocionales") ? "active" : ""}><a href="/devocionales">Devocionales</a></li>
-				<li class={currentPath.includes("/acerca-de") ? "active" : ""}><a href="/acerca-de">Acerca De</a></li>
-			</ul>
-		</nav>
-	</header>
-}
-
-{frontmatter.lang == "pt" &&
-	<header class="site-header">
-		<h2 class="site-title"><a href="/" rel="home">{SITE_TITLE_PT}</a></h2>
-		<nav class="language-navigation">
-			<ul>
-				<li><a href={ SITE_DOMAIN + '/home' }>English</a></li>
-				<li><a href={ SITE_DOMAIN_ES + '/inicio' }>Español</a></li>
-				<li><a href={ SITE_DOMAIN_PT + '/página-inicial' }>Português</a></li>
-			</ul>
-		</nav>
-		<nav class="site-navigation">
-			<ul>
-				<li class={currentPath.includes("/página-inicial") ? "active" : ""}><a href="/página-inicial">Página Inicial</a></li>
-				<li class={currentPath.includes("/devocionais") ? "active" : ""}><a href="/devocionais">Devocionais</a></li>
-				<li class={currentPath.includes("/sobre") ? "active" : ""}><a href="/sobre">Sobre</a></li>
-			</ul>
-		</nav>
-	</header>
-}
+<header class="site-header">
+	<h2 class="site-title"><a href="/" rel="home">{siteTitle}</a></h2>
+	<nav class="language-navigation">
+		<ul>
+			<li><a href={ SITE_DOMAIN + '/home' }>English</a></li>
+			<li><a href={ SITE_DOMAIN_ES + '/inicio' }>Español</a></li>
+			<li><a href={ SITE_DOMAIN_PT + '/página-inicial' }>Português</a></li>
+		</ul>
+	</nav>
+	<nav class="site-navigation">
+		<ul>
+			<li class={currentPath.includes(homePath) ? "active" : ""}><a href={homePath}>{t('nav.home')}</a></li>
+			<li class={currentPath.includes(devotionalsPath) ? "active" : ""}><a href={devotionalsPath}>{t('nav.devotionals')}</a></li>
+			<li class={currentPath.includes(aboutPath) ? "active" : ""}><a href={aboutPath}>{t('nav.about')}</a></li>
+		</ul>
+	</nav>
+</header>
